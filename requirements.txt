@@ -1,0 +1,16 @@
+# Wedding Planning Agent Dependencies
+
+# Core functionality
+pytesseract>=0.3.10
+Pillow>=10.0.0
+PyPDF2>=3.0.0
+pyyaml>=6.0
+python-dateutil>=2.8.0
+
+# Optional: AI/LLM integration (uncomment if using)
+# openai>=1.0.0
+# anthropic>=0.7.0
+
+# Optional: Enhanced text processing
+# nltk>=3.8
+# spacy>=3.7
