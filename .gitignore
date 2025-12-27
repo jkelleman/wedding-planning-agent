@@ -1,0 +1,62 @@
+# Wedding Planning Agent - Git Ignore
+
+# Data files (keep local - these are large and personal)
+data/raw/*.pdf
+data/raw/*.PNG
+data/raw/*.png
+data/raw/*.jpg
+data/raw/*.jpeg
+data/organized/
+outputs/
+
+# Keep directory structure but ignore contents
+!data/raw/.gitkeep
+!data/organized/.gitkeep
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables (if you add API keys)
+.env
