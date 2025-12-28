@@ -24,11 +24,13 @@
 | Item | Price | Quantity | Subtotal |
 |------|-------|----------|----------|
 | Tuna Tartare | $6/piece | 12 pieces | $72 |
-| Bacon Wrapped Scallops | $10/piece | 15 pieces | $150 |
-| Crab Cake Sliders | $10/piece | 12 pieces | $120 |
+| Bacon Wrapped Scallops | $10/piece | 20 pieces | $200 |
+| Crab Cake Sliders | $10/piece | 15 pieces | $150 |
 | Classic Margherita Flatbread | ~$21/pizza | 3 pizzas | $63 |
-| Chicken Skewers | $6/piece | 12 pieces | $72 |
-| | | **Hors d'Oeuvres Subtotal:** | **$477** |
+| Chicken Skewers | $6/piece | 15 pieces | $90 |
+| | | **Hors d'Oeuvres Subtotal:** | **$575** |
+
+**Note:** Please box up any leftover hors d'oeuvres for us to take home.
 
 ### Beverages
 
@@ -47,15 +49,15 @@
 
 | Description | Amount |
 |-------------|--------|
-| **Subtotal** (Food + Beverages) | $3,937 |
-| **Gratuity** (20%) | $787.40 |
-| **Admin Fee** (7%) | $275.59 |
-| **Food Tax** (7%) | $275.59 |
+| **Subtotal** (Food + Beverages) | $4,035 |
+| **Gratuity** (20%) | $807.00 |
+| **Admin Fee** (7%) | $282.45 |
+| **Food Tax** (7%) | $282.45 |
 | **═══════════════════════════════** | **═══════════** |
-| **GRAND TOTAL** | **$5,275.58** |
+| **GRAND TOTAL** | **$5,406.90** |
 | **═══════════════════════════════** | **═══════════** |
 
-**Fireplace Room Minimum:** $2,500 (Food & Beverage) ✅ Met at $3,937
+**Fireplace Room Minimum:** $2,500 (Food & Beverage) ✅ Met at $4,035
 
 ---
 
@@ -63,9 +65,9 @@
 
 | Category | Cost per Person (20 guests) |
 |----------|----------------|
-| Food (dinner + sides + hors d'oeuvres, including fees) | $180.97 |
-| Beverages (including fees) | $82.81 |
-| **Total per Person** | **$263.78** |
+| Food (dinner + sides + hors d'oeuvres, including fees) | $185.86 |
+| Beverages (including fees) | $84.49 |
+| **Total per Person** | **$270.35** |
 
 ---
 
@@ -73,15 +75,15 @@
 
 ### $5,000 Budget
 - **Status:** ❌ **OVER BUDGET**
-- **Grand Total:** $5,275.58
-- **Over by:** $275.58
-- **Budget Used:** 105.5%
+- **Grand Total:** $5,406.90
+- **Over by:** $406.90
+- **Budget Used:** 108.1%
 
 ### $6,700 Budget
 - **Status:** ✅ **WITHIN BUDGET**
-- **Grand Total:** $5,275.58
-- **Remaining:** $1,424.42
-- **Budget Used:** 78.8%
+- **Grand Total:** $5,406.90
+- **Remaining:** $1,293.10
+- **Budget Used:** 80.7%
 
 ---
 

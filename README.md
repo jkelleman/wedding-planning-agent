@@ -1,6 +1,82 @@
 # Wedding Planning Agent 🎉
 
-An AI-powered wedding planning assistant that scans PDF and PNG files containing reception details, organizes them with clear naming conventions, provides personalized recommendations, and helps you **negotiate better rates** with vendors. Built with an **extensible skills system** for unlimited customization.
+An AI-powered wedding planning assistant that scans vendor documents, organizes options, provides personalized recommendations, and helps you plan your perfect celebration.
+
+## 📊 Project Status - December 2025
+
+### 🎯 Current Event Planning
+**Venue:** The Banks Seafood and Steak - Fireplace Room  
+**Guest Count:** 20 people  
+**Budget:** $6,700  
+**Date:** TBD  
+**Status:** Finalizing menu selections and vendor communications
+
+### ✅ Completed Milestones
+
+#### Phase 1: Vendor Research & Analysis
+- ✅ Scanned **68+ vendor PDFs** from 11 Boston restaurants
+- ✅ Extracted pricing, menu options, and capacity details
+- ✅ Analyzed options for $5,000 budget (18 venues fit)
+- ✅ Analyzed options for $6,700 budget (20 venues fit - all options!)
+- ✅ Created comprehensive comparison documents
+
+#### Phase 2: Venue Selection
+- ✅ Selected **The Banks Seafood and Steak** - Fireplace Room
+- ✅ Reviewed private dining packet and beverage options
+- ✅ Calculated detailed costs for Tier 2 dinner menu
+- ✅ Finalized menu selections:
+  - 3 appetizer choices
+  - 4 entrée options
+  - 2 family-style sides
+  - 3 dessert selections
+  - 5 types of hors d'oeuvres for cocktail hour
+
+#### Phase 3: Menu Planning & Budgeting
+- ✅ Created detailed cost breakdown: **$5,406.90 total**
+  - Dinner: $2,600 (Tier 2 + sides)
+  - Hors d'oeuvres: $575 (increased per family feedback)
+  - Beverages: $860 (6 wine bottles + ~20 cocktails)
+  - Fees included: 20% gratuity, 7% admin, 7% tax
+- ✅ Accommodated dietary restrictions:
+  - 2 guests with celiac disease (gluten-free)
+  - 1 guest with tree nut allergy
+  - ~10 non-drinking guests (religious/health/preference/age)
+- ✅ Optimized beverage quantities for guest mix
+
+#### Phase 4: Communication Materials
+- ✅ Created vendor inquiry email with 21 detailed questions
+- ✅ Prepared guest invitation details (plain & formatted versions)
+- ✅ Documented all menu selections with full descriptions
+- ✅ Set event timeline: 5-8 PM (1 hour cocktails, 2 hours dinner)
+
+### 📁 Project Organization
+
+```
+analysis/                    # Original $5K budget analysis
+analysis_6500/              # Expanded $6.7K budget analysis
+analysis_thebanks/          # Detailed venue-specific planning
+├── detailed_cost_analysis.md
+├── email_to_thebanks.txt
+├── email_to_thebanks_formatted.txt
+├── guest_invitation_details.txt
+└── guest_invitation_details_formatted.txt
+data/raw/                   # 68 vendor PDFs organized by restaurant
+```
+
+### 🎯 Next Steps
+1. ⏳ Send inquiry email to The Banks
+2. ⏳ Schedule tasting and site visit
+3. ⏳ Confirm final date and finalize guest count
+4. ⏳ Send guest invitations with menu details
+5. ⏳ Book photographer, florist, and other services
+
+### 💰 Budget Summary
+- **Original Budget:** $5,000 → Over by $407
+- **Adjusted Budget:** $6,700 → **$1,293 remaining** ✅
+- **Cost per Person:** $270.35
+- **Venue Minimum Met:** $4,035 > $2,500 ✅
+
+---
 
 ## ✨ Features
 
