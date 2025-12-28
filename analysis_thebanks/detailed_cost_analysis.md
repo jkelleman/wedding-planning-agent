@@ -35,7 +35,7 @@
 | Item | Price | Quantity | Subtotal |
 |------|-------|----------|----------|
 | **Red Wine - Malbec** | $56/bottle | 3 bottles | $168 |
-| **White Wine - Chardonnay (Routestock)** | $64/bottle | 5 bottles | $320 |
+| **White Wine - Chardonnay (Routestock)** | $64/bottle | 3 bottles | $192 |
 | **Standard Tier Cocktails** | $25/drink | ~20 drinks | $500 |
 | | | **Beverage Subtotal:** | **$860**\* |
 
@@ -52,7 +52,7 @@
 | **Admin Fee** (7%) | $275.59 |
 | **Food Tax** (7%) | $275.59 |
 | **═══════════════════════════════** | **═══════════** |
-| **GRAND TOTAL** | **$5,274.58** |
+| **GRAND TOTAL** | **$5,275.58** |
 | **═══════════════════════════════** | **═══════════** |
 
 **Fireplace Room Minimum:** $2,500 (Food & Beverage) ✅ Met at $3,937
@@ -64,8 +64,8 @@
 | Category | Cost per Person (20 guests) |
 |----------|----------------|
 | Food (dinner + sides + hors d'oeuvres, including fees) | $180.97 |
-| Beverages (including fees) | $83.28 |
-| **Total per Person** | **$264.25** |
+| Beverages (including fees) | $82.81 |
+| **Total per Person** | **$263.78** |
 
 ---
 
@@ -73,15 +73,15 @@
 
 ### $5,000 Budget
 - **Status:** ❌ **OVER BUDGET**
-- **Grand Total:** $5,274.58
-- **Over by:** $274.58
+- **Grand Total:** $5,275.58
+- **Over by:** $275.58
 - **Budget Used:** 105.5%
 
 ### $6,700 Budget
 - **Status:** ✅ **WITHIN BUDGET**
-- **Grand Total:** $5,274.58
-- **Remaining:** $1,425.42
-- **Budget Used:** 78.7%
+- **Grand Total:** $5,275.58
+- **Remaining:** $1,424.42
+- **Budget Used:** 78.8%
 
 ---
 
@@ -137,16 +137,16 @@
 | Wine | Price/Bottle | Quantity | Total |
 |------|--------------|----------|-------|
 | **Red: Malbec** | $56 | 3 bottles | $168 |
-| **White: Chardonnay (Routestock)** | $64 | 5 bottles | $320 |
-| | | **8 bottles total** | **$488** |
+| **White: Chardonnay (Routestock)** | $64 | 3 bottles | $192 |
+| | | **6 bottles total** | **$360** |
 
 **Wine Coverage:**
-- 8 bottles × 5 glasses per bottle = 40 glasses
-- 40 glasses ÷ 20 guests = **2 glasses per person**
-- Good for dinner service with mix of red/white
+- 6 bottles × 5 glasses per bottle = 30 glasses
+- 30 glasses ÷ 20 guests = **1.5 glasses per person**
+- Light wine service for dinner
 
-**Mix:** 3 red (37.5%) : 5 white (62.5%)  
-*Note: Consider if this ratio matches your guests' preferences*
+**Mix:** 3 red (50%) : 3 white (50%)  
+*Note: Evenly split between red and white wine*
 
 ### Cocktails (Standard Tier)
 
@@ -168,55 +168,21 @@
 
 ---
 
-### Current Configuration
-**20 premium drinks @ $25 + 6 wine bottles @ $68**
-- Beverage Cost: $908
-- **Grand Total: $4,630.56** ($231.53/person)
-- ✅ Balanced approach
-
-### Scenario 1: Reduced Drinks
-**15 premium drinks @ $25 + 6 wine bottles @ $68**
-- Beverage Cost: $783
-- **Grand Total: $4,465.56** ($223.28/person)
-- **Saves: $165.00** vs current
-- ⚠️ May run short on cocktails for 20 guests
-
-### Scenario 2: More Wine
-**20 premium drinks @ $25 + 7 wine bottles @ $68**
-- Beverage Cost: $976
-- **Grand Total: $4,720.32** ($236.02/person)
-- **Adds: $89.76** vs current
-- ✅ Better wine coverage for table service
-
-### Scenario 3: Less Wine
-**20 premium drinks @ $25 + 5 wine bottles @ $68**
-- Beverage Cost: $840
-- **Grand Total: $4,540.80** ($227.04/person)
-- **Saves: $89.76** vs current
-- ⚠️ May be light on wine for 20 people
-
-### Scenario 4: Budget Option
-**15 premium drinks @ $25 + 5 wine bottles @ $68**
-- Beverage Cost: $715
-- **Grand Total: $4,375.80** ($218.79/person)
-- **Saves: $254.76** vs current
-- ⚠️ Minimal beverage coverage
-
 ## 💡 Cost Optimization Options
 
-**Current Total: $5,274.58** (Over $5K budget by $275)
+**Current Total: $5,275.58** (Over $5K budget by $276)
 
 ### Option 1: Reduce Hors d'Oeuvres
 **Remove Bacon Wrapped Scallops (-$150)**
 - New hors d'oeuvres total: $327
-- **New grand total: ~$5,077** ✅ Under $5K!
+- **New grand total: ~$5,074** ✅ Under $5K!
 - Still provides ~2.5 pieces per person
 
 ### Option 2: Reduce Wine Quantity
-**Use 7 bottles instead of 8 (-$64)**
-- Remove 1 white wine bottle
-- 1.75 glasses per person (still adequate)
-- **New grand total: ~$5,188** (Still over $5K by $188)
+**Use 4 bottles instead of 6 (-$120)**
+- Remove 2 bottles (go to 2 red + 2 white)
+- 1 glass per person (minimal but adequate for dinner)
+- **New grand total: ~$5,114** (Still over $5K by $114)
 
 ### Option 3: Reduce Cocktail Budget
 **Limit to 15 drinks instead of 20 (-$125)**
@@ -230,7 +196,7 @@
 
 ### Option 5: Keep As-Is with $6,700 Budget
 - ✅ Everything included
-- ✅ $1,425 remaining for other expenses
+- ✅ $1,424 remaining for other expenses
 - ✅ No compromises needed
 
 ---
@@ -249,7 +215,7 @@
 - Margherita Flatbread, Chicken Skewers
 
 ### Beverage Service
-- **8 wine bottles:** 3 Malbec ($56), 5 Chardonnay ($64)
+- **6 wine bottles:** 3 Malbec ($56), 3 Chardonnay ($64)
 - **Standard tier cocktails:** ~20 drinks budgeted at $25/drink
 - Consumption-based billing tracked to budget limit
 
@@ -270,8 +236,8 @@
    - Quality selections (scallops, crab cakes, tuna)
 
 3. **Wine Selection**
-   - 2 glasses per person for dinner is standard
-   - Good red/white mix
+   - 1.5 glasses per person for dinner is adequate
+   - Even 50/50 red/white split
    - Routestock Chardonnay is solid mid-range choice
 
 4. **Meets Venue Minimum**
@@ -281,7 +247,7 @@
 ### ⚠️ Areas to Consider
 
 1. **Budget Alignment**
-   - Current total ($5,274.58) exceeds $5K budget by $275
+   - Current total ($5,275.58) exceeds $5K budget by $276
    - Fits comfortably within $6,700 budget
    - **Decision needed:** Adjust menu or use higher budget?
 
