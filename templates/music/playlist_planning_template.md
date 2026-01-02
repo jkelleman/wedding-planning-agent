@@ -260,7 +260,7 @@ Use this template to plan music for each phase of your wedding day. For each sec
 
 ---
 
-## 📋 Music Planning Checklist
+##  Music Planning Checklist
 
 ### 2-3 Months Before
 - [ ] Decide on music delivery method (live, DJ, or playlist)

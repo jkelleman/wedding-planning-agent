@@ -19,7 +19,7 @@ Your wedding planning agent now has **3 major new capabilities**:
   - **Budget Tracker**: Track spending, get recommendations
   - **Vendor Comparison**: Side-by-side analysis
 
-### 3. 📄 Enhanced Document Processing
+### 3.  Enhanced Document Processing
 - Better PDF/PNG scanning
 - Improved metadata extraction
 - Organized output structure
@@ -79,7 +79,7 @@ python main.py negotiate data/raw/venue_grand_hall.pdf
 python main.py negotiate data/raw/venue_grand_hall.pdf --draft --tone professional
 ```
 
-### 📋 Scenario 2: You have multiple catering options
+###  Scenario 2: You have multiple catering options
 ```bash
 # Organize and compare them
 python main.py recommend
@@ -124,24 +124,24 @@ After running commands, your files will be organized like this:
 
 ```
 data/
-├── raw/                              # Your original files
-│   ├── venue_quote.pdf
-│   ├── catering_menu.png
-│   └── photographer_proposal.pdf
-└── organized/                        # Auto-organized files
-    ├── venue/
-    │   └── venue_Grand_Hall_$15000_quote.pdf
-    ├── catering/
-    │   └── catering_Bistro_$8500_menu.png
-    └── photography/
-        └── photography_ProShots_$4000_proposal.pdf
+ raw/                              # Your original files
+    venue_quote.pdf
+    catering_menu.png
+    photographer_proposal.pdf
+ organized/                        # Auto-organized files
+     venue/
+        venue_Grand_Hall_$15000_quote.pdf
+     catering/
+        catering_Bistro_$8500_menu.png
+     photography/
+         photography_ProShots_$4000_proposal.pdf
 
 outputs/
-├── recommendations/                   # Recommendation reports
-│   └── recommendations_20251227_143022.txt
-└── negotiation/                       # Negotiation drafts & reports
-    ├── catering_Bistro_20251227_143045.txt
-    └── negotiation_report_20251227_143100.txt
+ recommendations/                   # Recommendation reports
+    recommendations_20251227_143022.txt
+ negotiation/                       # Negotiation drafts & reports
+     catering_Bistro_20251227_143045.txt
+     negotiation_report_20251227_143100.txt
 ```
 
 ## Pro Tips 

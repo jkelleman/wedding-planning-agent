@@ -2,7 +2,7 @@
 
 This folder contains all documents related to photographer research, selection, timeline planning, and day-of execution.
 
-## 📄 Files in This Folder
+##  Files in This Folder
 
 ### `photographer_comparison.md`
 **Purpose:** Analysis of 15+ Boston photographers with pricing, experience, recommendations  
@@ -88,6 +88,6 @@ This folder contains all documents related to photographer research, selection, 
 
 ---
 
-## 📋 Related Templates
+##  Related Templates
 
 See `/templates/photography/` for blank templates you can copy and customize for photographer research and timeline planning.

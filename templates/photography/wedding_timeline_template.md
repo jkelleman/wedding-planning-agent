@@ -18,7 +18,7 @@
 - [Activity/shot 3]
 - [Key moments to capture]
 
-**[Time] - [Time]** ([# min]) - **[PHASE NAME - e.g., CEREMONY]** ⭐
+**[Time] - [Time]** ([# min]) - **[PHASE NAME - e.g., CEREMONY]** 
 - [Activity/shot 1]
 - [Activity/shot 2]
 - [Activity/shot 3]
@@ -37,7 +37,7 @@
 
 ---
 
-### OPTION 2: [# Hours] Coverage (Recommended) ⭐
+### OPTION 2: [# Hours] Coverage (Recommended) 
 **Best for:** [Description of what this covers]  
 **Estimated Cost:** $[low]-$[high]
 
@@ -47,7 +47,7 @@
 - [Activity/shot 3]
 - [Key moments to capture]
 
-**[Time] - [Time]** ([# min]) - **[PHASE NAME]** ⭐
+**[Time] - [Time]** ([# min]) - **[PHASE NAME]** 
 - [Activity/shot 1]
 - [Activity/shot 2]
 - [Activity/shot 3]
@@ -94,7 +94,7 @@
 
 ---
 
-## 📋 Complete Shot List by Timeline Phase
+##  Complete Shot List by Timeline Phase
 
 ### Phase 1: [Phase Name] ([Time] - [Time])
 
@@ -129,7 +129,7 @@
 
 ---
 
-### Phase 3: [Phase Name - CEREMONY] ([Time] - [Time]) ⭐
+### Phase 3: [Phase Name - CEREMONY] ([Time] - [Time]) 
 
 **Pre-Ceremony:**
 - [ ] Venue/ceremony space details
@@ -334,7 +334,7 @@
 
 ---
 
-## ⏱️ Timing Tips & Recommendations
+## ⏱ Timing Tips & Recommendations
 
 ### Allow Extra Time For:
 - **Travel between locations:** Add 15-30 min buffer

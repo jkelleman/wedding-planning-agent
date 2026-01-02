@@ -115,7 +115,7 @@ With your increased budget of $6,700, **ALL 20 restaurant options** are now with
 
 ---
 
-## ️ By Meal Type & Time
+##  By Meal Type & Time
 
 ### Brunch Options (Late Morning Start)
 1. **Abe & Louie's Brunch** ($1,650) - Classic steakhouse

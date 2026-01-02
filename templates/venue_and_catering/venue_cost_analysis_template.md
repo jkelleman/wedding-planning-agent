@@ -51,9 +51,9 @@
 | **Gratuity** ([%]%) | $[amount] |
 | **Admin/Service Fee** ([%]%) | $[amount] |
 | **Tax** ([%]%) | $[amount] |
-| **═══════════════════════════════** | **═══════════** |
+| **** | **** |
 | **GRAND TOTAL** | **$[TOTAL]** |
-| **═══════════════════════════════** | **═══════════** |
+| **** | **** |
 
 **[Room Name] Minimum:** $[amount] (Food & Beverage) [✅/❌] [Met/Not Met] at $[subtotal]
 
@@ -85,7 +85,7 @@
 
 ---
 
-## ️ Complete Menu Selections
+##  Complete Menu Selections
 
 ### Appetizers (Choice of [#])
 - ✅ **[Appetizer 1]** - [Description]

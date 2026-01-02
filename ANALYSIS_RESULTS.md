@@ -42,7 +42,7 @@ Total unique restaurants: **11**
 - Brunch: $68pp → $2,244 total ✅
 - Dinner Tier 1: $110pp → $3,630 total ✅
 - Dinner Tier 2: $130pp → $4,290 total ✅
-- Four-Course: $150pp → $4,950 total ️ (very close)
+- Four-Course: $150pp → $4,950 total  (very close)
 
 **Abe & Louie's** (1 option)
 - Brunch: $50pp → $1,650 total ✅

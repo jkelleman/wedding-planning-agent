@@ -2,7 +2,7 @@
 
 This folder contains documents related to music planning for your ceremony, cocktail hour, and reception.
 
-## 📄 Files in This Folder
+##  Files in This Folder
 
 ### `playlist_planning.md`
 **Purpose:** Music planning worksheet with timeline, song needs, delivery options  
@@ -39,6 +39,6 @@ This folder contains documents related to music planning for your ceremony, cock
 
 ---
 
-## 📋 Related Templates
+##  Related Templates
 
 See `/templates/music/` for a blank playlist planning template.

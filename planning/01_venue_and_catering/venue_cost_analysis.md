@@ -53,9 +53,9 @@
 | **Gratuity** (20%) | $807.00 |
 | **Admin Fee** (7%) | $282.45 |
 | **Food Tax** (7%) | $282.45 |
-| **═══════════════════════════════** | **═══════════** |
+| **** | **** |
 | **GRAND TOTAL** | **$5,406.90** |
-| **═══════════════════════════════** | **═══════════** |
+| **** | **** |
 
 **Fireplace Room Minimum:** $2,500 (Food & Beverage) ✅ Met at $4,035
 
@@ -87,7 +87,7 @@
 
 ---
 
-## �️ Complete Menu Selections
+##  Complete Menu Selections
 
 ### Appetizers (Choice of 3)
 - ✅ **Lobster Bisque** (or Clam Chowder)
@@ -132,7 +132,7 @@
 
 ---
 
-## � Beverage Selections
+##  Beverage Selections
 
 ### Wine Service
 
@@ -203,7 +203,7 @@
 
 ---
 
-## 📋 What's Included
+##  What's Included
 
 ### Tier 2 Dinner Menu (Your Selections)
 - **3 Appetizer Choices:** Lobster Bisque, Chopped Salad, Steamed Mussels
@@ -246,7 +246,7 @@
    - $3,937 food/bev vs $2,500 minimum ✅
    - Well above requirement
 
-### ️ Areas to Consider
+###  Areas to Consider
 
 1. **Budget Alignment**
    - Current total ($5,275.58) exceeds $5K budget by $276

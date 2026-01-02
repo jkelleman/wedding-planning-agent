@@ -1,6 +1,6 @@
 # Restaurant Details & Highlights
 
-## The Banks Seafood and Steak ⭐ MOST FLEXIBLE
+## The Banks Seafood and Steak  MOST FLEXIBLE
 
 **Location:** Clarendon & Stuart Streets, Back Bay  
 **Team:** Chef Robert Sisca & Chris Himmel  
@@ -37,7 +37,7 @@
 
 ---
 
-## CLINK ⭐ VERIFIED QUALITY
+## CLINK  VERIFIED QUALITY
 
 **Location:** Liberty Hotel (former Charles Street Jail)  
 **Style:** Contemporary American  
@@ -71,7 +71,7 @@
 
 ---
 
-## Bistro du Midi ⭐ CHEF'S FLAGSHIP
+## Bistro du Midi  CHEF'S FLAGSHIP
 
 **Location:** Public Garden views, Arlington Street  
 **Team:** Chef Robert Sisca  

@@ -1,10 +1,10 @@
-# Wedding Planning Agent 🎉
+# Wedding Planning Agent 
 
 An AI-powered wedding planning assistant that scans vendor documents, organizes options, provides personalized recommendations, and helps you plan your perfect celebration.
 
-## 📊 Project Status - December 2025
+##  Project Status - December 2025
 
-### 🎯 Current Event Planning
+###  Current Event Planning
 **Venue:** The Banks Seafood and Steak - Fireplace Room  
 **Guest Count:** 20 people  
 **Budget:** $6,700  
@@ -55,15 +55,15 @@ An AI-powered wedding planning assistant that scans vendor documents, organizes 
 analysis/                    # Original $5K budget analysis
 analysis_6500/              # Expanded $6.7K budget analysis
 analysis_thebanks/          # Detailed venue-specific planning
-├── detailed_cost_analysis.md
-├── email_to_thebanks.txt
-├── email_to_thebanks_formatted.txt
-├── guest_invitation_details.txt
-└── guest_invitation_details_formatted.txt
+ detailed_cost_analysis.md
+ email_to_thebanks.txt
+ email_to_thebanks_formatted.txt
+ guest_invitation_details.txt
+ guest_invitation_details_formatted.txt
 data/raw/                   # 68 vendor PDFs organized by restaurant
 ```
 
-### 🎯 Next Steps
+###  Next Steps
 1. ⏳ Send inquiry email to The Banks
 2. ⏳ Schedule tasting and site visit
 3. ⏳ Confirm final date and finalize guest count
@@ -78,7 +78,7 @@ data/raw/                   # 68 vendor PDFs organized by restaurant
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Functionality
 - **Document Scanning**: Extract text from PDFs and images (PNGs, JPGs) using OCR
@@ -87,7 +87,7 @@ data/raw/                   # 68 vendor PDFs organized by restaurant
 - **Intelligent Recommendations**: Ranks options by fit score considering budget, dietary needs, and capacity
 - **Detailed Reports**: Generate comprehensive reports with top recommendations per category
 
-### 🆕 Negotiation Agent
+###  Negotiation Agent
 - **Quote Analysis**: Analyzes vendor quotes against market rates and your budget
 - **Counter-Offer Suggestions**: Calculates strategic counter-offers (15-20% reductions)
 - **Email Draft Generation**: Creates professional negotiation emails in 3 tones:
@@ -98,7 +98,7 @@ data/raw/                   # 68 vendor PDFs organized by restaurant
 - **Negotiation Strategies**: Provides tactical approaches and talking points
 - **Batch Analysis**: Analyze multiple quotes and generate comprehensive reports
 
-### 🆕 Extensible Skills System
+###  Extensible Skills System
 Plugin architecture for adding custom capabilities. Includes built-in skills:
 
 - **Contract Analyzer**: Extracts payment terms, cancellation policies, and red flags from vendor contracts
@@ -206,7 +206,7 @@ python main.py organize
 python main.py recommend
 ```
 
-### 🆕 Negotiate with a vendor
+###  Negotiate with a vendor
 Analyze a single vendor quote:
 ```bash
 # Just analyze the quote
@@ -220,7 +220,7 @@ python main.py negotiate data/raw/venue_quote.pdf --draft --tone friendly
 python main.py negotiate data/raw/photography_quote.pdf --draft --tone firm
 ```
 
-### 🆕 Batch negotiation analysis
+###  Batch negotiation analysis
 Analyze all quotes in a directory:
 ```bash
 python main.py negotiate-batch data/raw/
@@ -231,7 +231,7 @@ Generates a comprehensive report with:
 - Market comparisons
 - Strategic recommendations
 
-### 🆕 Skills Management
+###  Skills Management
 List all available skills:
 ```bash
 python main.py skills list
@@ -353,33 +353,33 @@ RECOMMENDATIONS BY CATEGORY
 
 ```
 wedding-planning-agent/
-├── main.py                    # CLI interface
-├── config.yaml                # User preferences and budget
-├── requirements.txt           # Python dependencies
-├── README.md                  # This file
-├── src/
-│   ├── __init__.py
-│   ├── scanner.py             # PDF/PNG text extraction
-│   ├── organizer.py           # File renaming and organization
-│   ├── recommender.py         # Recommendation engine
-│   ├── negotiator.py          # 🆕 Negotiation agent
-│   └── skills/                # 🆕 Extensible skills system
-│       ├── __init__.py
-│       ├── base_skill.py      # Base class for all skills
-│       ├── contract_analyzer.py
-│       ├── timeline_generator.py
-│       └── budget_tracker.py
-├── data/
-│   ├── raw/                   # Input files (your PDFs/PNGs)
-│   └── organized/             # Organized output by category
-├── outputs/
-│   ├── recommendations/       # Generated recommendation reports
-│   └── negotiation/           # 🆕 Negotiation emails and reports
-└── tests/
-    └── test_agent.py
+ main.py                    # CLI interface
+ config.yaml                # User preferences and budget
+ requirements.txt           # Python dependencies
+ README.md                  # This file
+ src/
+    __init__.py
+    scanner.py             # PDF/PNG text extraction
+    organizer.py           # File renaming and organization
+    recommender.py         # Recommendation engine
+    negotiator.py          #  Negotiation agent
+    skills/                #  Extensible skills system
+        __init__.py
+        base_skill.py      # Base class for all skills
+        contract_analyzer.py
+        timeline_generator.py
+        budget_tracker.py
+ data/
+    raw/                   # Input files (your PDFs/PNGs)
+    organized/             # Organized output by category
+ outputs/
+    recommendations/       # Generated recommendation reports
+    negotiation/           #  Negotiation emails and reports
+ tests/
+     test_agent.py
 ```
 
-## 🔧 Creating Custom Skills
+##  Creating Custom Skills
 
 Extend the agent by creating your own skills! Here's how:
 
@@ -436,7 +436,7 @@ Your skill will appear in the list and can be executed immediately.
 - **Weather Forecast**: Check weather for outdoor events
 - **Music Playlist Generator**: Create ceremony/reception playlists
 
-## 🎯 Negotiation Examples
+##  Negotiation Examples
 
 ### Example: Analyze a catering quote
 
@@ -539,7 +539,7 @@ Best regards,
 - [ ] Budget optimization algorithms
 - [ ] Guest RSVP management system
 
-## 📝 Configuration Options
+##  Configuration Options
 
 Update `config.yaml` to customize:
 

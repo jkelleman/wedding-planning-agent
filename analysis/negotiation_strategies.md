@@ -232,7 +232,7 @@ python3 main.py negotiate \
 
 ---
 
-## 📋 Negotiation Checklist
+##  Negotiation Checklist
 
 Before reaching out:
 - [ ] Know your absolute maximum budget

@@ -118,7 +118,7 @@ These are blank templates that can be copied and customized for any wedding. Sha
 
 ---
 
-## ️ How to Use This Repository
+##  How to Use This Repository
 
 ### For Your Own Wedding:
 1. **Start in `/planning/`** - This is YOUR workspace
@@ -133,7 +133,7 @@ These are blank templates that can be copied and customized for any wedding. Sha
 
 ---
 
-## 📋 Suggested Workflow
+##  Suggested Workflow
 
 ### Phase 1: Research & Budget (Weeks 1-4)
 - Set overall budget
@@ -206,4 +206,4 @@ If you found this repository helpful and created additional useful templates or 
 - Updating this README with tips
 - Sharing with other brides planning intimate weddings
 
-**This repository is designed to be a gift to the wedding planning community!** ️
+**This repository is designed to be a gift to the wedding planning community!** 

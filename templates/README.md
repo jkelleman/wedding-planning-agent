@@ -123,7 +123,7 @@ If you created a helpful template during your wedding planning:
 
 ---
 
-## 📋 Template Checklist
+##  Template Checklist
 
 When creating a new template, make sure it has:
 - [ ] Clear descriptive filename ending in "_template"
@@ -141,6 +141,6 @@ These templates are a **gift to the wedding planning community**. If this system
 - Share it with engaged friends
 - Contribute your own useful templates
 - Improve existing templates with better instructions
-- Pass it forward! ️
+- Pass it forward! 
 
 **Planning a wedding should be joyful, not stressful. Templates help take away the "blank page" problem and let you focus on the decisions that matter.**

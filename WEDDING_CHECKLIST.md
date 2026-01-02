@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Master Checklist
+##  Master Checklist
 
 ### ✅ COMPLETED
 
@@ -144,7 +144,7 @@
 | **Rings** | $500 | TBD | ⏳ Not started |
 | **Invitations** | $100 | TBD | ⏳ Not started |
 | **Miscellaneous** | $400 | TBD | Buffer |
-| **═════════════** | **═════** | **═════** | **═════** |
+| **** | **** | **** | **** |
 | **TOTAL** | **$11,500** | **~$6,907-$7,057** | **On track!** |
 
 **Current Spent/Committed:** ~$6,907-$7,057  
@@ -155,7 +155,7 @@
 
 ##  Immediate Next Steps (This Week!)
 
-### Priority 1: Photography ⭐⭐⭐
+### Priority 1: Photography 
 **Why urgent:** Good photographers book up fast, even for elopements
 
 1. [ ] Email **Kelly Benvenuto** (kellybenvenuto.com)
@@ -175,7 +175,7 @@
 
 ---
 
-### Priority 2: Venue Booking ⭐⭐
+### Priority 2: Venue Booking 
 **Why urgent:** Need to secure The Banks for Feb 23
 
 1. [ ] Send inquiry email to The Banks
@@ -191,7 +191,7 @@
 
 ---
 
-### Priority 3: Music Planning ⭐
+### Priority 3: Music Planning 
 **Why urgent:** Need to know if hiring DJ or doing playlists
 
 1. [ ] Decide on music delivery method:
@@ -304,7 +304,7 @@ Include in invitations:
 
 ---
 
-## 📋 Legal Requirements
+##  Legal Requirements
 
 - [ ] Research marriage license requirements for Massachusetts
 - [ ] Schedule appointment to get license (must be done 60 days before ceremony)

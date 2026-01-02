@@ -2,7 +2,7 @@
 
 This folder contains all documents related to your venue selection, catering, menu planning, and guest communications.
 
-## 📄 Files in This Folder
+##  Files in This Folder
 
 ### `venue_cost_analysis.md`
 **Purpose:** Complete cost breakdown for your venue/restaurant  
@@ -53,6 +53,6 @@ This folder contains all documents related to your venue selection, catering, me
 
 ---
 
-## 📋 Related Templates
+##  Related Templates
 
 See `/templates/venue_and_catering/` for blank templates you can copy and customize.

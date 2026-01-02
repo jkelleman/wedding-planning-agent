@@ -180,7 +180,7 @@ python3 main.py skills execute budget_tracker --budget_total 6700
 
 ---
 
-## 📂 Related Folders
+##  Related Folders
 
 - **analysis/** - Original $5,000 budget analysis
 - **analysis/negotiation_strategies.md** - How to negotiate lower pricing by reducing prix fixe options

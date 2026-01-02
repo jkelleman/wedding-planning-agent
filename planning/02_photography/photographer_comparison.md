@@ -21,17 +21,17 @@
 | Photographer | Wedding Price | Elopement/Small Price | Website | BPL Experience |
 |--------------|---------------|----------------------|---------|----------------|
 | Erin of Boston | $5,000 | $1,650 | erinofboston.com | ✅ Yes |
-| Red Eyed Photography | $3,795 | $1,395 | redeyedphoto.com | ️ Elopement-focused |
-| Lensy Michelle | $6,500+ | $1,800+ | lensymichelle.com | ️ Boston elopements |
+| Red Eyed Photography | $3,795 | $1,395 | redeyedphoto.com |  Elopement-focused |
+| Lensy Michelle | $6,500+ | $1,800+ | lensymichelle.com |  Boston elopements |
 | Mark Davidson | $4,000 | $500-$750 | mark-davidson.com | ❌ Not specified |
-| Melissa Robotti | Custom | Custom (up to 5 hrs) | melissarobottiphotography.com | ️ Intimate weddings |
+| Melissa Robotti | Custom | Custom (up to 5 hrs) | melissarobottiphotography.com |  Intimate weddings |
 | Nicole Chan | $7,000 | $5,500+ (associate) | nicolechanphotography.com | ✅ Yes - Frequently |
 | Zev Fisher | $4,200+ | Not listed | zevfisher.com | ✅ Yes - Featured |
 | Leise Jones | $1,500 | $700/add'l hour | leisejones.com | ❌ Not specified |
 | Lena Mirisola | $9,850+ | Not listed | lenamirisolaphoto.com | ✅ Yes - Featured |
-| Shannon Grant | $8,000+ | Not listed | shannon-grant.com | ️ Estate/garden venues |
+| Shannon Grant | $8,000+ | Not listed | shannon-grant.com |  Estate/garden venues |
 | Kelly Benvenuto | $6,000 | $1,500 | kellybenvenuto.com | ✅ Yes - Classic Boston |
-| First Mate Photo Co. | Custom | Custom | firstmatephotoco.com | ️ Boston/New England |
+| First Mate Photo Co. | Custom | Custom | firstmatephotoco.com |  Boston/New England |
 | Mikhail Glabets | $7,000+ | Not listed | mikhailglabets.com | ✅ Yes - Featured |
 | Servidone Studios | Custom | Custom | servidonestudios.com | ❌ Not specified |
 | Studio Nouveau | Custom | Custom | studionouveau.com | ✅ Yes - Frequently |
@@ -180,7 +180,7 @@
 
 ---
 
-## 📋 What to Ask Photographers
+##  What to Ask Photographers
 
 ### Initial Inquiry Questions:
 1. Are you available on [your date]?
@@ -241,7 +241,7 @@
 
 ---
 
-## � Timeline & Logistics
+##  Timeline & Logistics
 
 For complete wedding day timeline, shot list, location details, and photography logistics, see:
 **→ `wedding_day_timeline_and_logistics.md`**

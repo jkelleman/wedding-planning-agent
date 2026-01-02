@@ -30,17 +30,17 @@ Rank your top priorities (1 = most important):
 | **Price** | $[amount] | $[amount] | $[amount] | $[amount] |
 | **Package Details** | [Brief description] | [Brief description] | [Brief description] | [Brief description] |
 | **Years Experience** | [#] years | [#] years | [#] years | [#] years |
-| **Style Match** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Style Match** |  |  |  |  |
 | **Available on Date** | ✅ Yes / ❌ No | ✅ Yes / ❌ No | ✅ Yes / ❌ No | ✅ Yes / ❌ No |
 | **Review Rating** | [#.#] / 5 stars | [#.#] / 5 stars | [#.#] / 5 stars | [#.#] / 5 stars |
 | **Response Time** | [Hours/Days] | [Hours/Days] | [Hours/Days] | [Hours/Days] |
 | **Venue Experience** | ✅ Yes / ❌ No | ✅ Yes / ❌ No | ✅ Yes / ❌ No | ✅ Yes / ❌ No |
-| **Communication** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Communication** |  |  |  |  |
 | **Overall Score** | [/50] | [/50] | [/50] | [/50] |
 
 ---
 
-## 📋 Detailed Vendor Profiles
+##  Detailed Vendor Profiles
 
 ### Vendor 1: [Full Name/Company]
 
@@ -75,8 +75,8 @@ Rank your top priorities (1 = most important):
 - ✅ [Positive aspect 3]
 
 **Cons:**
-- ️ [Concern 1]
-- ️ [Concern 2]
+-  [Concern 1]
+-  [Concern 2]
 
 **Reviews & References:**
 - **Overall Rating:** [#.#] / 5 stars ([# reviews])
@@ -139,8 +139,8 @@ Rank your top priorities (1 = most important):
 - ✅ [Pro 2]
 
 **Cons:**
-- ️ [Con 1]
-- ️ [Con 2]
+-  [Con 1]
+-  [Con 2]
 
 **Reviews:** [Rating and notes]
 
@@ -335,16 +335,16 @@ Customize this list based on vendor category:
 5. **Book with confidence** - Once decided, don't second-guess
 
 ### Red Flags to Watch For
-- ️ No written contract
-- ️ Requires full payment upfront
-- ️ No insurance or backup plan
-- ️ Inconsistent portfolio quality
-- ️ Poor or slow communication
-- ️ No reviews or refuses to provide references
-- ️ Extremely low pricing (too good to be true)
-- ️ Pushy or aggressive sales tactics
-- ️ Vague about deliverables or timeline
-- ️ Bad reviews about similar issues
+-  No written contract
+-  Requires full payment upfront
+-  No insurance or backup plan
+-  Inconsistent portfolio quality
+-  Poor or slow communication
+-  No reviews or refuses to provide references
+-  Extremely low pricing (too good to be true)
+-  Pushy or aggressive sales tactics
+-  Vague about deliverables or timeline
+-  Bad reviews about similar issues
 
 ---
 

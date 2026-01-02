@@ -2,7 +2,7 @@
 
 ## Top 3 Recommendations (Best Value + BPL Experience)
 
-### 1. Kelly Benvenuto ⭐ TOP CHOICE
+### 1. Kelly Benvenuto  TOP CHOICE
 - **Website:** kellybenvenuto.com
 - **Email:** kelly@kellybenvenuto.com
 - **Phone:** Not listed
@@ -39,7 +39,7 @@
 - **Email:** hello@redeyedphoto.com
 - **Phone:** Not listed
 - **Pricing:** $3,795 (wedding) / $1,395 (elopement)
-- **BPL Experience:** ️ Elopement-focused (possibly)
+- **BPL Experience:**  Elopement-focused (possibly)
 - **Why Consider:** Very affordable elopement rate, Boston-based
 
 ### Mark Davidson
@@ -55,7 +55,7 @@
 - **Email:** hi@lensymichelle.com
 - **Phone:** Not listed
 - **Pricing:** $13,000+ (wedding) / $1,800+ (elopement)
-- **BPL Experience:** ️ Boston elopements specialist
+- **BPL Experience:**  Boston elopements specialist
 - **Why Consider:** Elopement specialist, though higher pricing
 
 ### Melissa Robotti
@@ -63,14 +63,14 @@
 - **Email:** melissarobottiphoto@gmail.com
 - **Phone:** 508-921-0217
 - **Pricing:** Custom (intimate weddings)
-- **BPL Experience:** ️ Intimate weddings (possibly)
+- **BPL Experience:**  Intimate weddings (possibly)
 - **Why Consider:** Custom pricing for small events
 
 ---
 
 ## Higher-End Options (If Budget Allows)
 
-### Nicole Chan ⭐ EXCELLENT BPL EXPERIENCE
+### Nicole Chan  EXCELLENT BPL EXPERIENCE
 - **Website:** nicolechanphotography.com
 - **Email:** nicole@nicolechanphotography.com
 - **Phone:** 617-506-9059
@@ -78,7 +78,7 @@
 - **BPL Experience:** ✅ Yes - Frequently shoots at BPL
 - **Why Consider:** Extensive BPL portfolio, professional operation
 
-### Zev Fisher ⭐ FEATURED BPL WORK
+### Zev Fisher  FEATURED BPL WORK
 - **Website:** zevfisher.com
 - **Email:** zev@zevfisher.com
 - **Phone:** 617-797-9480
@@ -86,7 +86,7 @@
 - **BPL Experience:** ✅ Yes - Featured BPL work
 - **Why Consider:** Strong BPL portfolio, mid-premium pricing
 
-### Studio Nouveau ⭐ FREQUENT BPL SHOOTER
+### Studio Nouveau  FREQUENT BPL SHOOTER
 - **Website:** studionouveau.com
 - **Email:** info@thestudionouveau.com
 - **Phone:** 617-855-5272
@@ -94,7 +94,7 @@
 - **BPL Experience:** ✅ Yes - Frequently shoots at BPL
 - **Why Consider:** Regular BPL experience, custom packages
 
-### Mikhail Glabets ⭐ FEATURED BPL WEDDING
+### Mikhail Glabets  FEATURED BPL WEDDING
 - **Website:** mikhailglabets.com
 - **Email:** hello@mikhailglabets.com
 - **Phone:** Not listed
@@ -115,7 +115,7 @@
 - **Email:** shannon@shannongrantphotography.com
 - **Phone:** 774-283-4790
 - **Pricing:** $8,000+
-- **BPL Experience:** ️ Estate/garden venues
+- **BPL Experience:**  Estate/garden venues
 - **Why Consider:** Premium quality, though not BPL-focused
 
 ### Servidone Studios
@@ -131,7 +131,7 @@
 - **Email:** Not listed (use website contact form)
 - **Phone:** Not listed
 - **Pricing:** Custom
-- **BPL Experience:** ️ Boston & New England (possibly)
+- **BPL Experience:**  Boston & New England (possibly)
 - **Why Consider:** New England specialist
 
 ---

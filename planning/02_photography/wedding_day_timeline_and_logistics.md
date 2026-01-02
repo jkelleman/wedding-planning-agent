@@ -18,7 +18,7 @@
 - Pre-ceremony portraits in available BPL areas
 - Guest arrival candids (if early arrivals)
 
-**3:30 PM - 4:30 PM** (60 min) - **ELOPEMENT CEREMONY IN GUASTAVINO ROOM** ⭐
+**3:30 PM - 4:30 PM** (60 min) - **ELOPEMENT CEREMONY IN GUASTAVINO ROOM** 
 - **CEREMONY PROMPT AT 3:30 PM**
 - Full ceremony coverage in Guastavino Room (elopement room at BPL)
 - Key ceremony moments
@@ -32,7 +32,7 @@
 
 ---
 
-### OPTION 2: 3-Hour Coverage (Recommended) ⭐
+### OPTION 2: 3-Hour Coverage (Recommended) 
 **Best for:** Ceremony + extended family portraits  
 **Estimated Cost:** $1,500-$2,500
 
@@ -42,7 +42,7 @@
 - Detail shots of ceremony space
 - Guest arrival candids
 
-**3:30 PM - 4:30 PM** (60 min) - **ELOPEMENT CEREMONY IN GUASTAVINO ROOM** ⭐
+**3:30 PM - 4:30 PM** (60 min) - **ELOPEMENT CEREMONY IN GUASTAVINO ROOM** 
 - **CEREMONY PROMPT AT 3:30 PM**
 - Full ceremony coverage in Guastavino Room (BPL's elopement room)
 - All ceremony moments captured
@@ -98,7 +98,7 @@
 
 ---
 
-## ️ Location Details & Logistics
+##  Location Details & Logistics
 
 ### Boston Public Library (Copley Square) - PRIMARY LOCATION
 - **Address:** 700 Boylston Street, Boston, MA
@@ -159,7 +159,7 @@
 
 ---
 
-## 📋 Complete Shot List
+##  Complete Shot List
 
 ### Boston Public Library - Guastavino Room & Exterior
 **Ceremony + Family Portraits (2-3 hours)**

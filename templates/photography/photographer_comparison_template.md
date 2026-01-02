@@ -19,11 +19,11 @@
 
 | Photographer | Wedding Price | Small Wedding/Elopement Price | Website | Experience with Your Venue |
 |--------------|---------------|-------------------------------|---------|---------------------------|
-| [Name 1] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
-| [Name 2] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
-| [Name 3] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
-| [Name 4] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
-| [Name 5] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
+| [Name 1] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No /  Note] |
+| [Name 2] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No /  Note] |
+| [Name 3] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No /  Note] |
+| [Name 4] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No /  Note] |
+| [Name 5] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No /  Note] |
 
 ---
 
@@ -62,7 +62,7 @@
 
 ##  TOP RECOMMENDATIONS
 
-### ⭐ FIRST CHOICE: [Photographer Name]
+###  FIRST CHOICE: [Photographer Name]
 **Price:** $[amount] ([# hours/package details])  
 **Website:** [URL]  
 **Contact:** [email] | [phone]  
@@ -83,8 +83,8 @@
 - ✅ [Pro 3]
 
 **Cons:**
-- ️ [Con 1 if any]
-- ️ [Con 2 if any]
+-  [Con 1 if any]
+-  [Con 2 if any]
 
 ---
 
@@ -108,7 +108,7 @@
 - ✅ [Pro 2]
 
 **Cons:**
-- ️ [Con 1 if any]
+-  [Con 1 if any]
 
 ---
 
@@ -131,11 +131,11 @@
 - ✅ [Pro 2]
 
 **Cons:**
-- ️ [Con 1 if any]
+-  [Con 1 if any]
 
 ---
 
-## 📋 Evaluation Criteria
+##  Evaluation Criteria
 
 Use this checklist when evaluating photographers:
 
@@ -259,15 +259,15 @@ Best regards,
 - What's your cancellation/refund policy?
 
 ### Red Flags to Watch For
-- ️ No contract provided
-- ️ Requires full payment upfront
-- ️ No backup equipment or plan
-- ️ Inconsistent portfolio quality
-- ️ Poor communication/slow to respond
-- ️ No reviews or references
-- ️ Unwilling to show full wedding galleries
-- ️ Unclear about deliverables
-- ️ Extremely low pricing (too good to be true)
+-  No contract provided
+-  Requires full payment upfront
+-  No backup equipment or plan
+-  Inconsistent portfolio quality
+-  Poor communication/slow to respond
+-  No reviews or references
+-  Unwilling to show full wedding galleries
+-  Unclear about deliverables
+-  Extremely low pricing (too good to be true)
 
 ---
 

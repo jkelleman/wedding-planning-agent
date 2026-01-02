@@ -23,7 +23,7 @@
 | **Hair & Makeup** | $[amount] | $[amount] | $[amount] | [%]% |
 | **Miscellaneous** | $[amount] | $[amount] | $[amount] | [%]% |
 | **Contingency** (10%) | $[amount] | $[amount] | $[amount] | [%]% |
-| **════════════════** | **════════** | **════════** | **════════** | **════** |
+| **** | **** | **** | **** | **** |
 | **TOTAL** | **$[TOTAL]** | **$[TOTAL]** | **$[TOTAL]** | **100%** |
 
 ---
@@ -35,15 +35,15 @@
 - **Total Committed (booked but not paid):** $[amount]
 - **Remaining Available:** $[amount]
 - **% of Budget Used:** [%]%
-- **Status:** [✅ ON TRACK / ️ APPROACHING LIMIT / ❌ OVER BUDGET]
+- **Status:** [✅ ON TRACK /  APPROACHING LIMIT / ❌ OVER BUDGET]
 
 ---
 
-## ️ Venue & Catering
+##  Venue & Catering
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -63,7 +63,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -82,7 +82,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -100,7 +100,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -120,7 +120,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -140,7 +140,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -156,7 +156,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -177,7 +177,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -191,7 +191,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -206,7 +206,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -222,7 +222,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget /  At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
