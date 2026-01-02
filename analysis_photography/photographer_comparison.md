@@ -1,18 +1,18 @@
 # Boston Photography Options - Comparison & Analysis
 
 **Event Details:**
-- Type: Intimate family celebration (20 guests)
-- Duration: 3 hours total coverage
-- Locations:
-  1. **The Lenox Hotel** - First look photos
-  2. **Boston Public Library** - Family portraits (outdoor & indoor)
-  3. **The Banks Seafood and Steak** - Candid dinner reception photos
-- Photography Budget: TBD
+- **Date:** Monday, February 23, 2026
+- **Type:** Intimate elopement ceremony (20 guests)
+- **Location:** Boston Public Library - Guastavino Room
+- **Coverage Options:** 2-3 hours
+- **Photography Budget:** $1,500-$2,500 (recommended for 3 hours)
 
-**Coverage Needs:**
-- First look session at hotel
-- Family portraits at BPL (iconic Boston location)
-- Reception candids at The Banks
+**Primary Needs:**
+- Ceremony coverage in BPL Guastavino Room (3:30-4:30 PM)
+- Extended family portraits on BPL exterior (grand staircase, facade, courtyard)
+- Natural, warm editing style
+
+> **Note:** For detailed timeline, shot list, and logistics, see `wedding_day_timeline_and_logistics.md`
 
 ---
 
@@ -241,175 +241,18 @@
 
 ---
 
-## 📸 Coverage Timeline for 3-Hour Event
+## � Timeline & Logistics
 
-**Recommended Timeline:**
+For complete wedding day timeline, shot list, location details, and photography logistics, see:
+**→ `wedding_day_timeline_and_logistics.md`**
 
-**4:00 PM - 4:30 PM** (30 min) - **THE LENOX HOTEL**
-- First look photos
-- Couple/family member portraits in hotel setting
-- Getting ready moments (if desired)
-- Travel time to BPL (5 min walk)
-
-**4:30 PM - 5:15 PM** (45 min) - **BOSTON PUBLIC LIBRARY**
-- Exterior shots (iconic BPL facade, courtyard)
-- Interior shots (grand staircase, reading rooms, architecture)
-- Family group portraits in various locations
-- Formal family photos
-- Travel time to The Banks (10 min walk/5 min drive)
-
-**5:15 PM - 5:30 PM** (15 min) - **ARRIVAL AT THE BANKS**
-- Venue detail shots (Fireplace Room setup)
-- Table settings, decor
-- Photographer prep for reception
-
-**5:30 PM - 6:00 PM** (30 min) - **COCKTAIL HOUR**
-- Guest arrivals
-- Candid mingling
-- Hors d'oeuvres service
-- Group interactions
-
-**6:00 PM - 7:00 PM** (60 min) - **DINNER SERVICE**
-- Candid dining moments
-- Table conversations
-- Food photography
-- Toasts (if any)
-- Natural group shots
-
-**Total: 3 hours of active photography**
-**Locations: 3 (Lenox Hotel, BPL, The Banks)**
-
----
-
-## 🗺️ Location Details & Logistics
-
-### The Lenox Hotel
-- **Address:** 61 Exeter Street, Boston, MA
-- **Distance to BPL:** 0.3 miles (5-7 min walk)
-- **Best for:** Classic, elegant hotel backdrop
-- **Photography spots:** Lobby, rooms (if booking), exterior
-- **Permission needed:** Check with hotel for public space photography
-- **Backup plan:** If not staying at Lenox, photographer can meet at BPL
-
-### Boston Public Library (Copley Square)
-- **Address:** 700 Boylston Street, Boston, MA
-- **Distance BPL to The Banks:** 0.4 miles (8 min walk / 5 min drive)
-- **Best for:** Iconic Boston architecture, grand interiors
-- **Photography spots:**
-  - **Exterior:** Main facade, courtyard, fountain
-  - **Interior:** Grand staircase, Bates Hall (reading room), arched corridors
-- **Permission needed:** BPL allows photography in public areas
-  - Large commercial shoots require permit
-  - Small family portraits generally OK (check with librarian)
-  - Some restrictions in special collections areas
-- **Best time:** Late afternoon (4:30-5:15 PM) = beautiful light
-- **Backup plan:** If BPL is crowded/closed, nearby Copley Square or Trinity Church exterior
-
-### The Banks Seafood and Steak
-- **Address:** 406 Stuart Street, Boston, MA
-- **Private room:** Fireplace Room
-- **Best for:** Candid reception moments, intimate dinner
-- **Photography spots:** Private dining room, table settings, candids
-- **Permission:** Private room = full access for photography
-
-### Travel Logistics
-- **Lenox → BPL:** 5-7 min walk
-- **BPL → The Banks:** 8 min walk OR quick drive/Uber
-- **All locations within 0.5 mile radius** = very manageable
-- **Photographer should plan for:**
-  - 5-10 min transition time between locations
-  - Weather backup (indoor options at each)
-  - Equipment for multiple settings
-
----
-
-## 📋 Shot List by Location
-
-### Location 1: The Lenox Hotel (30 minutes)
-**First Look & Initial Portraits**
-
-Must-Have Shots:
-- [ ] First look moment (candid reaction)
-- [ ] Couple/family portraits in hotel lobby
-- [ ] Detail shots (outfit details, accessories)
-- [ ] Hotel exterior (if elegant backdrop)
-
-Optional:
-- [ ] Getting ready moments (if booking room)
-- [ ] Hotel interior architecture
-
-### Location 2: Boston Public Library (45 minutes)
-**Formal Family Portraits & Architecture**
-
-Must-Have Shots - Exterior:
-- [ ] Full family group on BPL steps
-- [ ] BPL facade as backdrop
-- [ ] Courtyard fountain area
-- [ ] Smaller family groupings outdoors
-
-Must-Have Shots - Interior:
-- [ ] Grand staircase portraits (iconic!)
-- [ ] Bates Hall reading room (if accessible)
-- [ ] Arched corridor portraits
-- [ ] Architecture details with family
-- [ ] Full group in grand space
-- [ ] Immediate family portraits
-- [ ] Extended family groupings
-
-Priority Groups:
-- [ ] Full group (all 20 guests)
-- [ ] Immediate family only
-- [ ] Parents/grandparents generation
-- [ ] Siblings/cousins generation
-- [ ] Family units (by household)
-
-### Location 3: The Banks Seafood (1.5 hours)
-**Candid Reception Coverage**
-
-Must-Have Shots - Details:
-- [ ] Fireplace Room setup
-- [ ] Table settings and florals (if any)
-- [ ] Menu cards
-- [ ] Place settings
-- [ ] Overall room ambiance
-
-Must-Have Shots - Candid Moments:
-- [ ] Guest arrivals
-- [ ] Cocktail hour mingling
-- [ ] Hors d'oeuvres being served
-- [ ] Guests with drinks
-- [ ] Dinner service moments
-- [ ] Table conversations
-- [ ] Food photography (plates)
-- [ ] Toasts (if any)
-- [ ] Laughter and interactions
-- [ ] Dessert service
-
-Optional:
-- [ ] Group shot at The Banks
-- [ ] Detail of building exterior
-- [ ] Bar/cocktail setup
-
----
-
-## 🎯 Photography Priorities
-
-**Most Important:**
-1. ✅ BPL family portraits (this is the main reason for hiring photographer)
-2. ✅ First look moment at Lenox
-3. ✅ Candid dinner moments at The Banks
-
-**Style Preferences:**
-- Natural, warm editing (not overly edited)
-- Documentary approach for reception
-- More posed/directed for BPL portraits
-- Mix of close-ups and wide architectural shots at BPL
-
-**What We DON'T Need:**
-- ❌ Traditional wedding formals (no bouquet toss, cake cutting, etc.)
-- ❌ Overly staged "Pinterest" shots
-- ❌ Dramatic/moody editing
-- ❌ Black and white as primary style (some B&W accents OK)
+This file includes:
+- Detailed 2-hour and 3-hour timeline options
+- Complete shot list for Guastavino Room ceremony
+- BPL exterior portrait locations and logistics
+- Weather backup plans
+- Family grouping coordination
+- Photography planning checklist
 
 ---
 
