@@ -1,0 +1,224 @@
+# Guest Invitation Details Template
+
+**Event:** [Your Event Name/Type]  
+**Date:** [Day of Week], [Month] [Day], [Year]  
+**Location:** [Venue Name - City, State]
+
+---
+
+## 📧 Invitation Wording
+
+### Formal Version
+
+[Host Names]  
+request the pleasure of your company  
+at the [wedding/celebration/ceremony] of
+
+[Partner 1 Name]  
+&  
+[Partner 2 Name]
+
+[Day of Week], the [Date ordinal] of [Month], [Year]  
+at [Time] in the [morning/afternoon/evening]
+
+[Venue Name]  
+[Address]  
+[City, State ZIP]
+
+[Reception/Dinner] to follow
+
+[RSVP details]
+
+---
+
+### Casual Version
+
+You're invited!
+
+Join us for [our wedding/celebration]
+
+[Partner 1] & [Partner 2]
+
+[Date] at [Time]  
+[Venue Name]  
+[City, State]
+
+[Additional details - dress code, parking, etc.]
+
+RSVP by [Date] to [Contact Method]
+
+---
+
+## 👥 Guest List Template
+
+| # | Guest Name(s) | Relationship | Invited | RSVP Status | Dietary Restrictions | Plus One? | Contact Info |
+|---|---------------|--------------|---------|-------------|---------------------|-----------|--------------|
+| 1 | [Name] | [Relationship] | ✅ | [Yes/No/Pending] | [None/Details] | [Y/N] | [Email/Phone] |
+| 2 | [Name] | [Relationship] | ✅ | [Yes/No/Pending] | [None/Details] | [Y/N] | [Email/Phone] |
+| 3 | [Name] | [Relationship] | ✅ | [Yes/No/Pending] | [None/Details] | [Y/N] | [Email/Phone] |
+
+**Total Invited:** [#]  
+**Total Confirmed Yes:** [#]  
+**Total Confirmed No:** [#]  
+**Pending Responses:** [#]
+
+---
+
+## 🍽️ Dietary Restrictions Summary
+
+| Restriction Type | Guest Names | Count | Notes |
+|------------------|-------------|-------|-------|
+| Gluten-Free/Celiac | [Names] | [#] | [Any special notes] |
+| Vegetarian | [Names] | [#] | [Any special notes] |
+| Vegan | [Names] | [#] | [Any special notes] |
+| Nut Allergy | [Names] | [#] | [Any special notes] |
+| Shellfish Allergy | [Names] | [#] | [Any special notes] |
+| Dairy-Free | [Names] | [#] | [Any special notes] |
+| Other | [Names] | [#] | [Details] |
+
+**Total Guests with Restrictions:** [#] of [total]
+
+---
+
+## 📋 Guest Communication Plan
+
+### Save the Date
+- **Send by:** [Date]
+- **Method:** [Email/Mail/Both]
+- **Include:** Date, city, accommodation info
+
+### Formal Invitations
+- **Send by:** [Date - typically 6-8 weeks before]
+- **RSVP deadline:** [Date - typically 2-3 weeks before event]
+- **Method:** [Mail/Email/Digital invite]
+- **Include:** 
+  - Event details (date, time, location)
+  - Dress code
+  - Dietary restriction survey
+  - Parking/transportation info
+  - Accommodation suggestions
+  - Website/info page link
+
+### RSVP Tracking
+- **Track responses in:** [Spreadsheet/Wedding website/Template above]
+- **Follow up with non-responders:** [Date]
+- **Final headcount due to venue:** [Date]
+
+### Pre-Event Reminder
+- **Send:** 1 week before event
+- **Include:**
+  - Venue address with parking/directions
+  - Timeline for the day
+  - Weather considerations
+  - Contact info for day-of questions
+
+---
+
+## 🏨 Guest Accommodation Info
+
+### Recommended Hotels
+
+**[Hotel Name 1]** (Closest to venue)
+- **Distance:** [# miles/minutes from venue]
+- **Rate:** $[amount]/night
+- **Phone:** [Phone number]
+- **Website:** [URL]
+- **Notes:** [Group rate code? Shuttle? Amenities?]
+
+**[Hotel Name 2]**
+- **Distance:** [# miles/minutes from venue]
+- **Rate:** $[amount]/night
+- **Phone:** [Phone number]
+- **Website:** [URL]
+- **Notes:** [Group rate code? Shuttle? Amenities?]
+
+**[Hotel Name 3]** (Budget option)
+- **Distance:** [# miles/minutes from venue]
+- **Rate:** $[amount]/night
+- **Phone:** [Phone number]
+- **Website:** [URL]
+- **Notes:** [Group rate code? Shuttle? Amenities?]
+
+---
+
+## 🚗 Transportation & Parking
+
+**Venue Parking:**
+- [Available/Not available]
+- [Free/Paid - cost per hour]
+- [Number of spaces]
+- [Valet option? Cost?]
+
+**Public Transportation:**
+- [Nearest station/stop]
+- [Distance from venue]
+- [Estimated fare]
+
+**Rideshare/Taxi:**
+- [Typical wait time in area]
+- [Estimated cost from hotels]
+
+**Shuttle Service:**
+- [If providing shuttle: pickup locations, times, cost]
+
+---
+
+## 📞 Day-of Contact Information
+
+**Couple's Contact (for emergencies only):**
+- [Name]: [Phone]
+
+**Point Person/Day-of Coordinator:**
+- [Name]: [Phone]
+
+**Venue Contact:**
+- [Venue Name]: [Phone]
+
+**Vendor Emergencies:**
+- [Photographer]: [Phone]
+- [Caterer]: [Phone]
+- [Other key vendor]: [Phone]
+
+---
+
+## 💡 Tips for Guest Management
+
+### Before Sending Invitations
+- [ ] Finalize complete guest list
+- [ ] Get accurate addresses for all guests
+- [ ] Decide on plus-one policy
+- [ ] Create method for tracking RSVPs
+- [ ] Set up wedding website if using one
+
+### Invitation Best Practices
+- [ ] Proofread everything multiple times
+- [ ] Include RSVP deadline that's 2-3 weeks before event
+- [ ] Make RSVP process easy (online, phone, or mail)
+- [ ] Ask about dietary restrictions on RSVP card/form
+- [ ] Include parking/transportation information
+- [ ] Consider accommodation options for out-of-town guests
+
+### RSVP Tracking
+- [ ] Update spreadsheet/tracker as responses come in
+- [ ] Note dietary restrictions immediately
+- [ ] Follow up with non-responders 1 week after deadline
+- [ ] Share final headcount with vendors by their deadline
+- [ ] Create seating chart once you have final count
+
+### Guest Experience
+- [ ] Send pre-event reminder 1 week before
+- [ ] Include detailed directions and parking info
+- [ ] Designate point person for day-of questions
+- [ ] Have emergency contact system for late/lost guests
+- [ ] Consider welcome bags for out-of-town guests
+
+### Post-Event
+- [ ] Send thank you notes within 3 months
+- [ ] Share photos with guests once received
+- [ ] Return any borrowed items
+- [ ] Pay outstanding vendor balances
+
+---
+
+*Template Version 1.0 - Created January 2026*  
+*For more templates, see `/templates/` folder*
