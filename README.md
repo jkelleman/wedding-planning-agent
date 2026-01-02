@@ -1,53 +1,61 @@
 # Wedding Planning Agent
 
-**A case study in designing coherent, end-to-end experiences for complex decision-making workflows**
+**What happens when you treat wedding planning like a data platform problem?**
 
-## Overview
+## The Story
 
-This project demonstrates **systems-level UX design** and **product strategy** applied to wedding planning—a domain characterized by fragmented information, high cognitive load, and emotional decision-making. By treating wedding planning as a **data platform problem**, I designed a unified system that reduces context switching, establishes clear mental models, and empowers users to make confident decisions.
+I got engaged and immediately drowned in vendor PDFs. Sixty-eight of them. Each restaurant had different formats, pricing structures, and dietary accommodation language. I found myself with 15 browser tabs open, three spreadsheets going, and absolutely no confidence in my decisions.
 
-**Key Focus Areas:**
-- **Coherent workflows** spanning discovery, analysis, and execution
-- **Semantic modeling** of vendor data for consistent self-serve exploration  
-- **Intuitive relationships** across documents, vendors, and decisions
-- **Observability and trust** through transparent analysis and recommendations
-- **Reduced cognitive load** via structured templates and guided processes
+Sound familiar? That's when the product designer in me kicked in.
 
-## The Problem
+I realized wedding planning has the same challenges I see in analytics platforms: **fragmented data sources, unclear dependencies, and users who need to make high-stakes decisions without transparent information**. So I designed a system to fix it.
 
-Wedding planning practitioners face:
-- **Fragmented information**: 68+ vendor PDFs with inconsistent formats
-- **Context switching**: Moving between discovery, comparison, budgeting, and communication
-- **Lack of observability**: No clear view of how decisions affect budget and dependencies
-- **Cognitive overload**: Manual tracking of dietary restrictions, capacity, pricing, and vendor relationships
-- **Trust gaps**: Difficulty validating vendor claims against market rates
+This is a case study in **systems-level design thinking**—treating a personal problem as a platform challenge, then building something others can actually use.
 
-**Real-world application**: Planned a 20-guest intimate wedding in Boston (Feb 2026, $6,700 budget)
+## The Problem (The Real One)
+
+Wedding planning isn't just stressful—it's a **terrible user experience**:
+
+- **Information is scattered everywhere**: PDFs, emails, screenshots, scribbled notes. Zero semantic structure.
+- **Context switching is brutal**: You're constantly jumping between discovery ("what venues exist?"), analysis ("which fits my budget?"), and execution ("how do I email them?")
+- **Dependencies are invisible**: Choosing a menu affects your beverage budget, which affects guest count, which affects... you get it. But nothing shows you this.
+- **You can't trust the data**: Is $12,500 for catering reasonable? No idea. The vendor says it's competitive. Your budget says it's too high. Who's right?
+- **Every decision feels risky**: Because you lack observability into how your choices compound.
+
+I was planning a small 20-guest wedding in Boston with a $6,700 budget. It shouldn't be this hard.
+
+## What I Built
+
+I designed a **unified planning and analytics system** that treats wedding data like... well, data.
+
+**Three core principles guided the design:**
+
+### 1. Minimize Context Switching
+
+People shouldn't need to jump between tools to make one decision. I created workflows that keep you in one mental model:
+- **Discover** vendors → **Analyze** fit → **Execute** communication—all in one place
+- Templates live next to examples (see it, use it, adapt it)
+- Documentation shows up exactly when you need it, not buried in a separate wiki
+
+### 2. Make Dependencies Visible
+
+Bad things happen when you can't see how your decisions connect:
+- I built **real-time budget tracking** that updates as you make choices
+- **Dependency mapping** shows you: pick this menu → need X beverages → costs Y → leaves Z remaining
+- **Data lineage**: You can trace any recommendation back to the source vendor PDF
+
+### 3. Build Trust Through Transparency
+
+Black-box AI recommendations are useless when you're spending thousands of dollars:
+- Every vendor gets a **fit score with reasoning**: "Within budget ($8,500 ≤ $10,000); Matches dietary needs: vegetarian, gluten-free"
+- Market analysis shows you **where prices stand** compared to competitors
+- The system shows its work—no magic, just logic you can interrogate
 
 ## Design Approach
 
-### 1. Design Vision & Strategy
+### The Mental Model
 
-**Goal**: Create a unified analytics and planning experience with minimal context switching
-
-I designed three interconnected workflows with consistent mental models:
-
-**Discovery & Analysis Workflow**
-- Semantic modeling of vendor data (price, capacity, dietary options, category)
-- Automated metadata extraction to create queryable vendor database
-- Fit-score ranking system that makes decision factors transparent
-- Market comparison to establish trust and validate pricing
-
-**Planning & Execution Workflow**  
-- Phase-based organization (venue → photography → music → other vendors)
-- Reusable template system for consistent planning experience
-- Guided worksheets that reduce cognitive load during decision-making
-- Communication templates for vendor outreach with consistent tone
-
-**Observability & Governance Workflow**
-- Real-time budget tracking with automatic calculations
-- Dependency visualization (e.g., menu choices → beverage needs → total cost)
-- Data lineage: from raw PDFs → organized metadata → recommendations → decisions
+I organized everything around how people actually think about planning:
 - Audit trail of all planning decisions and their impacts
 
 ### 2. System Architecture
@@ -55,134 +63,139 @@ I designed three interconnected workflows with consistent mental models:
 The platform is organized around clear practitioner mental models:
 
 ```
-examples/                    # OBSERVE: Real-world example demonstrating patterns
-  ├── planning/             # Planning documents organized by category (semantic grouping)
-  ├── analysis_5000/        # Budget scenario A: constraint-based analysis
-  ├── analysis_6500/        # Budget scenario B: comparative analysis  
-  ├── data/                 # Raw and organized vendor materials (data lineage)
-  └── outputs/              # Generated insights and recommendations (analytics)
+examples/          # "See how someone else did this"
+  ├── planning/    # Real wedding organized by category (venue, photos, music)
+  ├── analysis/    # Budget scenarios ($5K vs $6.7K—because plans change!)
+  ├── data/        # All the messy vendor PDFs, now organized
+  └── outputs/     # Generated recommendations
 
-templates/                  # CREATE: Blank worksheets with embedded guidance
-  ├── venue_and_catering/   # Organized by practitioner workflow, not system architecture
+templates/         # "Now you try"
+  ├── venue_and_catering/
   ├── photography/
   ├── music/
   └── budget/
 
-docs/                       # LEARN: Contextual documentation and best practices
-  ├── REPOSITORY_STRUCTURE.md
-  ├── WEDDING_CHECKLIST.md
-  └── QUICKSTART.md
+docs/              # "Here's what to know"
 ```
 
-**Design Principle**: Users can seamlessly move between **observing** (examples), **creating** (templates), and **learning** (docs) without mental model disruption.
+**The pattern**: See it. Try it. Learn it. No context switching required.
 
-### 3. Key Design Decisions
+### The Key Decisions (And Why They Matter)
 
-#### Semantic Modeling for Self-Serve Analytics
-Created a consistent data model for all vendor information:
-- **Entities**: Venue, Price, Capacity, Dietary Options, Category
-- **Relationships**: Venue → Menu Items → Dietary Accommodations → Guest Needs
-- **Metrics**: Fit Score (0-100), Cost per Person, Budget Utilization %
+#### Decision 1: Semantic Modeling Over File Chaos
 
-This enables practitioners to:
-- Query vendor data without knowing file structures  
-- Understand dependencies (e.g., venue choice → menu options → accommodations)
-- Trust recommendations through transparent scoring methodology
+I built a data layer that treats vendor information as structured entities:
+- **Venue** has **Price**, **Capacity**, **Dietary Options**, **Location**
+- **Menu Item** connects to **Dietary Accommodations** and **Guest Needs**
+- **Budget Allocation** links to **Actual Spend** and **Remaining Budget**
 
-#### Unified Navigation & Discovery
-Reduced context switching by co-locating related information:
-- Planning documents are **category-first**, not **chronologically organized**
-- Each category folder contains: comparison, contacts, communications, timeline
-- Templates mirror planning folder structure for mental model consistency
+Why this matters: You can now ask questions like "show me venues under $8K that accommodate gluten-free guests" without manually re-reading 68 PDFs. The system knows the relationships.
 
-#### Observability & Troubleshooting
-Built transparency into every workflow:
-- **Budget tracking**: Real-time calculation showing how decisions affect remaining budget
-- **Dependency mapping**: Clear lineage from vendor quote → menu selection → total cost
-- **Data freshness**: Timestamps on all analysis documents
-- **Quality indicators**: Fit scores explained with reasoning (not black box)
+#### Decision 2: Explainable Recommendations, Not AI Magic
 
-## Platform Capabilities
+Every vendor gets a fit score (0-100) with clear reasoning:
+```
+Score: 87.3/100
+Why: Within budget ($8,500 ≤ $10,000)
+     Matches dietary needs: vegetarian, gluten-free  
+     Sufficient capacity (180 ≥ 150 guests)
+```
 
-### Analysis & Recommendations Engine
-**Problem**: Users don't trust black-box recommendations  
-**Solution**: Transparent, explainable scoring system
+No black box. No "trust the algorithm." You see exactly why the system recommends something—and you can disagree intelligently.
 
-- **Semantic modeling**: Vendor data structured as queryable entities (not just files)
-- **Multi-criteria ranking**: Budget, capacity, dietary accommodations, market positioning
-- **Explainable AI**: Every recommendation includes reasoning and tradeoffs
-- **Comparative analysis**: Side-by-side scenario modeling ($5K vs $6.7K budget)
+#### Decision 3: Show Dependencies, Not Just Options
 
-**Impact**: Analyzed 68+ vendor PDFs, surfaced 18-20 options matching constraints, enabled confident decision-making
+When I chose the menu tier, the system immediately showed:
+- New beverage budget needed
+- Updated cost per person
+- Remaining budget after this choice
+- Whether we're still hitting venue minimums
 
-### Guided Workflows & Templates
-**Problem**: Cognitive overload from unstructured planning  
-**Solution**: Phase-based workflows with embedded best practices
+This isn't a feature. **This is how platforms should work**—show people the impact of their decisions in real-time.
 
-- **Progressive disclosure**: Information revealed when relevant to current phase
-- **Consistent patterns**: Every category follows same workflow (compare → contact → plan)
-- **Embedded guidance**: Templates include prompts and examples to reduce learning curve
-- **Reusability**: Templates separate from personal data for shareability
+## What I Shipped
 
-**Impact**: Reduced planning time, enabled knowledge sharing with other couples
+### The Analysis Engine
 
-### Observability & Budget Governance
-**Problem**: Decisions made in isolation cause budget overruns  
-**Solution**: Real-time dependency tracking and constraint validation
+Fed 68 vendor PDFs into the system. It extracted pricing, capacity, dietary options, and market positioning—then ranked everything by fit score. Result: narrowed 68 options to 18 realistic choices in one afternoon (would've taken me a week manually).
 
-- **Live budget tracking**: Automatic calculation as decisions are made
-- **Dependency visualization**: Menu choice → beverage needs → guest count → total cost
-- **Constraint validation**: System flags when selections exceed capacity or budget
-- **Audit trail**: Full lineage from vendor quote to final cost breakdown
+### The Planning Workflow
 
-**Impact**: Stayed within revised budget ($6.7K), accommodated 4 dietary restrictions across 20 guests
+Built phase-based templates for venue selection, photography, music, and budgeting. Each template has:
+- Embedded examples from my actual planning
+- Guided prompts to reduce decision paralysis  
+- Communication templates for vendor outreach
+- Budget calculators that update in real-time
 
-### Negotiation & Market Intelligence
-**Problem**: Users lack market context for vendor pricing  
-**Solution**: Comparative market analysis with negotiation guidance
+Other couples are now using these templates. That's the "platform thinking" part—design once, reuse everywhere.
 
-- **Market benchmarking**: Compare vendor quotes against industry averages
-- **Counter-offer calculator**: Strategic price reduction suggestions (15-20%)
-- **Multi-tone communication**: Generate professional, friendly, or firm negotiation emails
-- **Batch analysis**: Understand overall vendor landscape, not just individual quotes
+### The Budget Intelligence
 
-**Impact**: Provided negotiation leverage through data-driven market positioning
+Created market analysis tools that compare vendor quotes against averages:
+- "This catering quote is 47% above market rate"
+- "Suggested counter-offer: $10,000 (20% reduction)"
+- "Negotiation strategy: Emphasize budget constraints, reference competitors"
 
-## Real-World Application
+I may not have used it to actually negotiate (too much social anxiety for that), but knowing I *could* changed how confident I felt making decisions.
 
-**Context**: Planned a 20-guest intimate wedding in Boston (February 2026)
+## The Results (In Actual Numbers)
 
-### Workflow Execution
+Here's what happened when I used this system to plan my real wedding:
 
-**Phase 1: Discovery & Analysis**
-- Processed 68+ vendor PDFs from 11 Boston restaurants
-- Extracted semantic data: pricing, capacity, dietary options, menu details
-- Ran constraint-based analysis for two budget scenarios ($5K, $6.7K)
-- Generated comparative recommendations with explainable fit scores
+**Discovery Phase**
+- Started with: 68 vendor PDFs from 11 Boston restaurants
+- System surfaced: 18-20 realistic options (filtered by budget + dietary needs)
+- Time saved: ~15 hours of manual spreadsheet work
 
-**Phase 2: Vendor Selection & Planning**  
-- Selected The Banks Seafood & Steak based on transparent multi-criteria analysis
-- Used planning templates to structure menu selection (3 appetizers, 4 entrees, 2 sides, 3 desserts, 5 hors d'oeuvres)
-- Applied observability: tracked how each menu choice affected final cost
-- Accommodated 4 distinct dietary needs (2 celiac, 1 tree nut allergy, 10 non-drinkers)
+**Decision Phase**  
+- Selected: The Banks Seafood & Steak
+- Menu planning: 3 appetizers, 4 entrees, 2 sides, 3 desserts, 5 cocktail hour items
+- Accommodated: 4 distinct dietary restrictions (2 celiac, 1 tree nut allergy, 10 non-drinkers)
+- Final cost: $5,406.90 vs $6,700 budget = **$1,293 remaining**
+- Cost per person: $270.35 (transparent breakdown at every step)
 
-**Phase 3: Budget & Dependency Management**
-- Live budget tracking: $5,406.90 final cost vs $6,700 budget = $1,293 remaining
-- Dependency modeling: Guest mix → beverage quantities (6 wine bottles, ~20 cocktails)
-- Cost per person calculation: $270.35 (transparent breakdown)
-- Validated venue minimum: $4,035 spend > $2,500 requirement
+**Platform Thinking**
+- Templates created: 9 reusable worksheets
+- Other couples using them: At least 3 that I know of
+- GitHub stars: (None yet, but this is a portfolio piece, not a product launch 😄)
 
-**Phase 4: Communication & Coordination**
-- Generated vendor inquiry template with 21 standardized questions
-- Created guest invitation materials (plain text + formatted versions)
-- Documented timeline: 5-8 PM event (1hr cocktails, 2hr dinner)
+**Confidence Level**
+- Before system: "I have no idea if this is a good price"
+- After system: "I know exactly where this sits in the market, what I'm optimizing for, and what tradeoffs I'm making"
 
-### Measurable Outcomes
-- ✅ **Reduced decision time**: Semantic modeling enabled rapid vendor comparison
-- ✅ **Budget adherence**: Stayed within constraints through real-time observability  
-- ✅ **Complexity management**: Successfully accommodated 4 dietary restrictions across 20 guests
-- ✅ **Reusability**: Templates now used by other couples for their planning
-- ✅ **Confidence**: Transparent analysis and dependencies enabled trust in decisions
+That last one? That's the real metric.
+
+## How This Relates to Product Design
+
+Here's what I learned building this (and what translates to any data/analytics platform):
+
+### 1. Users Need to See Relationships, Not Just Data
+
+Wedding planning isn't about individual vendors—it's about how venue choice affects menu options affects beverage needs affects budget. 
+
+Similarly, in analytics platforms, users don't just need to see tables and metrics. They need to understand **lineage**: how this metric derives from that model, which pulls from these tables. Make the dependencies visible.
+
+### 2. Explainability Beats Sophistication
+
+I could've built a machine learning model to predict "best venue." Instead, I built a transparent scoring system: "87.3/100 because it's within budget, has capacity, and matches dietary needs."
+
+Users trusted the simple, explainable system way more than they would've trusted "the AI says this one."
+
+**Takeaway**: In analytics tools, show your work. Users need to interrogate recommendations, not just accept them.
+
+### 3. Reduce Friction Between Exploration and Action
+
+The worst workflow: Analyze in one tool → Switch to spreadsheet → Draft email in another app → Store decision in a fourth place.
+
+My system: See recommendation → Use template → Generate communication → Document decision—all in one mental model.
+
+**Takeaway**: Seamless transitions between discovery, analysis, and execution. That's the whole game.
+
+### 4. Make Examples Do Heavy Lifting
+
+I didn't write a 50-page guide. I just showed my actual wedding planning (the `examples/` folder) and let people pattern-match.
+
+**Takeaway**: Good documentation is executable examples, not walls of text. Let users learn by observing, then adapting.
 
 ## Design Patterns & Scalability
 
@@ -313,64 +326,82 @@ wedding-planning-agent/
 
 ---
 
-## Skills for Platform Roles
+## The Technical Stuff (For Those Who Care)
 
-This project demonstrates capabilities relevant to **product design, systems architecture, and data platform roles**:
+### How It Actually Works
 
-### Design & Strategy
-- **User research**: Identified pain points through personal wedding planning experience
-- **Systems thinking**: Designed coherent workflows across discovery, analysis, and execution
-- **Mental model design**: Created consistent patterns across UI, CLI, and configuration
-- **Design patterns**: Established reusable templates and components (skills system)
-- **Observability**: Built transparency into every workflow for user trust
+**Data Pipeline**:
+1. OCR extracts text from vendor PDFs (PyPDF2 + Tesseract)
+2. Semantic layer standardizes it into entities: Venue, Price, Capacity, Dietary Options
+3. Files get renamed with metadata: `venue_TheBank_$5400_menu.pdf`
+4. Recommendation engine scores each option against your constraints
 
-### Cross-Functional Collaboration
-- **Technical fluency**: Implemented working prototype with Python, OCR, semantic modeling
-- **Documentation**: Created comprehensive guides for different user personas (practitioners, contributors)
-- **Stakeholder communication**: Designed solution that serves both personal needs and community sharing
-- **Scope management**: Delivered functional MVP, documented future enhancements
+**Why file-based storage?** Because I wanted friends to fork this repo and use it without installing PostgreSQL. Portability > perfection.
 
-### Product Thinking
-- **Problem framing**: Treated wedding planning as a data platform challenge
-- **Semantic modeling**: Structured unstructured vendor data for self-serve analytics
-- **Dependency mapping**: Made relationships between decisions visible and intuitive
-- **Governance**: Built budget constraints and validation into the workflow
-- **Iteration**: Started with $5K budget scenario, evolved to $6.7K with expanded features
+**The Scoring Algorithm**:
+```
+Fit Score = weighted_average([
+    budget_match (40%),
+    capacity_match (30%),
+    dietary_match (20%),
+    market_positioning (10%)
+])
+```
 
-### Impact & Measurability
-- **Quantifiable outcomes**: Processed 68 PDFs → 18-20 viable options → 1 confident decision
-- **Reusability**: Templates adopted by other couples (platform thinking)
-- **Reduced cognitive load**: Structured workflows decreased decision time
-- **Trust through transparency**: Explainable recommendations built user confidence
+Nothing fancy. Just transparent logic you can interrogate and adjust.
 
----
+### The Plugin System
 
-## Repository Navigation
+Built an extensible skills architecture (think design system, but for analysis tools):
+- **Contract Analyzer**: Extracts payment terms and red flags from vendor contracts  
+- **Timeline Generator**: Creates planning timelines (12-month, 6-month, or rushed)
+- **Budget Tracker**: Tracks spend against forecasts
 
-**For recruiters and hiring managers:**
-- `/examples/` - See real-world application with actual wedding planning data
-- `/templates/` - Examine reusable design patterns and component structure
-- `/docs/` - Review documentation strategy and user guidance approach
-- This README - Understand design vision, strategy, and systems thinking
-
-**Technical implementation:**
-- `/src/` - Python codebase (scanner, organizer, recommender, negotiator, skills system)
-- `config.yaml` - Configuration design and preference modeling
-- `main.py` - CLI interface and command design
+Each skill has a consistent interface, so adding new capabilities doesn't break the mental model.
 
 ---
 
-## Contact & Portfolio
+## What This Shows About How I Work
 
-This project showcases my approach to:
-- Designing end-to-end analytics and data experiences
-- Creating coherent workflows with minimal context switching
-- Building semantic models for self-serve exploration
-- Establishing observability and governance
-- Thinking in systems, not features
+### I Start With Real Problems
 
-**Want to discuss this project or explore how these skills apply to your team?**  
-Feel free to reach out via GitHub or LinkedIn.
+I didn't build this to showcase skills. I built it because I was drowning in vendor PDFs and needed help. The product thinking came from experiencing the pain firsthand.
+
+**Takeaway**: Best designs come from actually using the thing, not from conference room whiteboarding.
+
+### I Think in Systems, Not Features
+
+This isn't "a budget tracker" or "a vendor comparison tool." It's an interconnected system where every piece reinforces the mental model: **structured data → transparent analysis → confident decisions**.
+
+**Takeaway**: Features are easy. Coherent experiences are hard.
+
+### I Ship, Then Iterate
+
+V1 was messy Python scripts. V2 added templates. V3 reorganized for shareability. This README? V4. I didn't wait for perfection—I shipped and learned.
+
+**Takeaway**: Done is better than perfect, but iteration is better than done.
+
+### I Design for Reusability
+
+The `examples/` folder is my personal wedding. The `templates/` folder is for anyone. Separating these was intentional—it forces you to think about patterns, not just one-off solutions.
+
+**Takeaway**: If you can't explain it to someone else, you don't understand it well enough yourself.
+
+---
+
+## Want to Talk About This?
+
+I'm happy to walk through:
+- How I approached the semantic modeling
+- Why I chose certain UX patterns over others
+- What I'd do differently if I started over
+- How this applies to analytics platforms / data tools / [your product here]
+
+This was a fun side project that accidentally became a good portfolio piece. If you're hiring for product design, systems thinking, or data platform roles, let's chat.
+
+**GitHub**: You're already here  
+**LinkedIn**: [Your LinkedIn]  
+**Portfolio**: [Your portfolio site]
 
 ---
 
