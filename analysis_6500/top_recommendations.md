@@ -1,12 +1,12 @@
 # Top Recommendations - $6,700 Budget
 
-## 🎉 NEW OPTIONS NOW AVAILABLE!
+##  NEW OPTIONS NOW AVAILABLE!
 
 With your increased budget of $6,700, **ALL 20 restaurant options** are now within reach! This includes premium four-course menus and cocktail reception packages that were previously over budget.
 
 ---
 
-## 💎 Premium Options (Now Affordable!)
+##  Premium Options (Now Affordable!)
 
 ### 1. Ostra Cocktail + Four-Course - $175 per person
 - **Total Cost:** $5,775
@@ -34,7 +34,7 @@ With your increased budget of $6,700, **ALL 20 restaurant options** are now with
 
 ---
 
-## 🌟 Best Balance Options
+##  Best Balance Options
 
 ### 1. Bistro du Midi Four-Course - $150 per person
 - **Total Cost:** $4,950
@@ -87,7 +87,7 @@ With your increased budget of $6,700, **ALL 20 restaurant options** are now with
 
 ---
 
-## 📊 Recommendation by Budget Allocation
+##  Recommendation by Budget Allocation
 
 ### If Prioritizing Food Quality (Use 80-90% of Budget)
 **Choose:** $5,000-5,800 range
@@ -115,7 +115,7 @@ With your increased budget of $6,700, **ALL 20 restaurant options** are now with
 
 ---
 
-## 🍽️ By Meal Type & Time
+## ️ By Meal Type & Time
 
 ### Brunch Options (Late Morning Start)
 1. **Abe & Louie's Brunch** ($1,650) - Classic steakhouse
@@ -149,7 +149,7 @@ With your increased budget of $6,700, **ALL 20 restaurant options** are now with
 
 ---
 
-## 🎯 Our Top 3 Overall Picks
+##  Our Top 3 Overall Picks
 
 ### #1: The Banks Dinner Tier 3 - $145pp ($4,785)
 **Perfect Balance of Everything**
@@ -177,7 +177,7 @@ With your increased budget of $6,700, **ALL 20 restaurant options** are now with
 
 ---
 
-## 💡 Budget-Smart Strategy
+##  Budget-Smart Strategy
 
 With $6,700, you can afford any option! Here's how to think about allocation:
 
@@ -214,7 +214,7 @@ With $6,700, you can afford any option! Here's how to think about allocation:
 
 ---
 
-## 🎊 Special Occasion Recommendations
+##  Special Occasion Recommendations
 
 ### Intimate & Romantic
 - **Bistro du Midi Four-Course** - Public Garden views, French elegance

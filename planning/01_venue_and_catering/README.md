@@ -30,7 +30,7 @@ This folder contains all documents related to your venue selection, catering, me
 
 ---
 
-## 💡 How to Use These Files
+##  How to Use These Files
 
 1. **Research Phase:** Create `venue_cost_analysis.md` for each venue you're considering
 2. **Inquiry Phase:** Customize `vendor_inquiry_email.txt` with your questions and send

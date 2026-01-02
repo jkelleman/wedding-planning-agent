@@ -14,7 +14,7 @@
 
 ---
 
-## 🎉 Newly Affordable Options
+##  Newly Affordable Options
 
 ### 1. Ostra Four-Course - $155 per person
 **$5,000 Budget:** ❌ Over by $115 ($5,115 total)  
@@ -85,7 +85,7 @@ Options that were tight in $5,000 budget now have comfortable margins:
 
 ---
 
-## 📊 Options by Budget Range
+##  Options by Budget Range
 
 ### Under $3,000 (Maximum Savings)
 **Both budgets:** 6 options from $1,485 to $2,640
@@ -113,7 +113,7 @@ Options that were tight in $5,000 budget now have comfortable margins:
 
 ---
 
-## 🎯 Decision Impact
+##  Decision Impact
 
 ### If You Choose Lower-Tier Options
 **Extra $1,700 available for:**
@@ -173,7 +173,7 @@ Options that were tight in $5,000 budget now have comfortable margins:
 
 ---
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 
 ### If $5,000 Was Your Absolute Max
 **Stick with $5K options but enjoy extra cushion:**
@@ -216,7 +216,7 @@ Options that were tight in $5,000 budget now have comfortable margins:
 
 ---
 
-## 📈 Value Analysis
+##  Value Analysis
 
 ### Where Extra $1,700 Has Most Impact
 
@@ -238,7 +238,7 @@ Options that were tight in $5,000 budget now have comfortable margins:
 
 ---
 
-## 🎊 Summary: What $1,700 More Gets You
+##  Summary: What $1,700 More Gets You
 
 ### Access:
 ✅ 2 previously over-budget options  
@@ -259,7 +259,7 @@ Options that were tight in $5,000 budget now have comfortable margins:
 
 ---
 
-## 🤔 Which Budget Is Right for You?
+##  Which Budget Is Right for You?
 
 ### Choose $5,000 Budget If:
 - You need to allocate more to other wedding expenses

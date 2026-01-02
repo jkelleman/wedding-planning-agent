@@ -6,7 +6,7 @@
 
 ---
 
-## 🎵 Timeline & Music Needs
+##  Timeline & Music Needs
 
 Use this template to plan music for each phase of your wedding day. For each section:
 1. Note the time and duration
@@ -232,7 +232,7 @@ Use this template to plan music for each phase of your wedding day. For each sec
 
 ---
 
-## 🎧 Music Delivery Methods
+##  Music Delivery Methods
 
 ### Option 1: Live Musician(s)
 - [ ] **Ceremony:** [Musician type - string quartet, guitarist, pianist, etc.]
@@ -298,7 +298,7 @@ Use this template to plan music for each phase of your wedding day. For each sec
 
 ---
 
-## 💡 Music Selection Tips
+##  Music Selection Tips
 
 ### Choosing Ceremony Music
 1. **Personal meaning matters most** - Don't pick a song just because it's "traditional"
@@ -339,7 +339,7 @@ Use this template to plan music for each phase of your wedding day. For each sec
 
 ---
 
-## 🎵 Vibe Guide
+##  Vibe Guide
 
 ### Romantic & Elegant
 - **Artists:** Norah Jones, John Legend, Ed Sheeran, Frank Sinatra
@@ -367,7 +367,7 @@ Use this template to plan music for each phase of your wedding day. For each sec
 
 ---
 
-## 📝 Song Suggestion Worksheet
+##  Song Suggestion Worksheet
 
 **Our Music Style:** [Description of your general music taste]
 

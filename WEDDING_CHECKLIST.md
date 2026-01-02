@@ -11,7 +11,7 @@
 
 ### ✅ COMPLETED
 
-#### Venue & Catering - DONE! 🎉
+#### Venue & Catering - DONE! 
 - [x] Research venues (11 venues analyzed)
 - [x] Select venue: **The Banks Seafood - Fireplace Room**
 - [x] Finalize menu: **Tier 2 three-course dinner + 5 hors d'oeuvres**
@@ -21,7 +21,7 @@
 - [x] Create guest invitation details
 - **Next:** Send inquiry email and book!
 
-#### Photography - IN PROGRESS 📸
+#### Photography - IN PROGRESS 
 - [x] Research photographers (15 analyzed)
 - [x] Narrow to top 3:
   1. **Kelly Benvenuto** - $1,500 (BPL experience ✅)
@@ -35,7 +35,7 @@
 - [ ] Schedule consultations
 - [ ] Book photographer
 
-#### Music - STARTED 🎵
+#### Music - STARTED 
 - [x] Create playlist planning worksheet
 - [x] Define music needs by timeline section
 - [ ] **NEXT: Answer music style questions** ⏳
@@ -43,7 +43,7 @@
 - [ ] Create playlists or book musician/DJ
 - [ ] Test venue sound system
 
-#### Repository Organization - DONE! 🎉
+#### Repository Organization - DONE! 
 - [x] Reorganize folder structure
 - [x] Create `/planning/` folder with numbered categories
 - [x] Create `/templates/` folder with 9 blank templates
@@ -55,7 +55,7 @@
 
 ---
 
-## 📅 Timeline to Wedding Day (53 days remaining)
+##  Timeline to Wedding Day (53 days remaining)
 
 ### JANUARY 2026 (Now - 1 month out)
 
@@ -122,11 +122,11 @@
 **Wedding Day (Feb 23):**
 - [ ] Arrive at Lenox Hotel for getting ready (if doing first look)
 - [ ] 2:30 PM: Arrive at BPL, photographer starts
-- [ ] 3:30-4:30 PM: **CEREMONY in Guastavino Room** 🎉
+- [ ] 3:30-4:30 PM: **CEREMONY in Guastavino Room** 
 - [ ] 4:30-5:30 PM: Extended family portraits on BPL exterior
 - [ ] 5:30-6:00 PM: Cocktail hour at The Banks
 - [ ] 6:00-8:00 PM: Dinner reception at The Banks
-- [ ] **ENJOY YOUR WEDDING DAY!** 💍✨
+- [ ] **ENJOY YOUR WEDDING DAY!** 
 
 ---
 
@@ -135,8 +135,8 @@
 | Category | Budgeted | Actual | Status |
 |----------|----------|--------|--------|
 | **Venue & Catering** | $5,500 | $5,406.90 | ✅ Quoted |
-| **Photography** | $2,500 | $1,500-$1,650 | 📸 Researched |
-| **Music** | $500 | TBD | 🎵 Planning |
+| **Photography** | $2,500 | $1,500-$1,650 |  Researched |
+| **Music** | $500 | TBD |  Planning |
 | **Florals** | $500 | TBD | ⏳ Not started |
 | **Attire** | $1,000 | TBD | ⏳ Not started |
 | **Hair/Makeup** | $300 | TBD | ⏳ Not started |
@@ -153,7 +153,7 @@
 
 ---
 
-## 🎯 Immediate Next Steps (This Week!)
+##  Immediate Next Steps (This Week!)
 
 ### Priority 1: Photography ⭐⭐⭐
 **Why urgent:** Good photographers book up fast, even for elopements
@@ -210,14 +210,14 @@
 
 ---
 
-## 📝 Other Vendors to Consider
+##  Other Vendors to Consider
 
 ### Must-Have Vendors
 - [x] ✅ Venue/Catering - The Banks (quoted)
-- [ ] 📸 Photographer - Top 3 identified, ready to book
-- [ ] 🎵 Music - Planning in progress
-- [ ] 💍 Officiant - Need to research and book
-- [ ] 💐 Flowers - Optional, but nice for bouquet/boutonnieres
+- [ ]  Photographer - Top 3 identified, ready to book
+- [ ]  Music - Planning in progress
+- [ ]  Officiant - Need to research and book
+- [ ]  Flowers - Optional, but nice for bouquet/boutonnieres
 
 ### Optional Vendors (Based on Budget)
 - [ ] Hair & makeup artist (~$200-$400)
@@ -227,7 +227,7 @@
 
 ---
 
-## 💍 Attire Checklist
+##  Attire Checklist
 
 ### Your Attire
 - [ ] Wedding dress/outfit (Budget: $500-$700)
@@ -269,7 +269,7 @@
 
 ---
 
-## 🏨 Guest Accommodations
+##  Guest Accommodations
 
 **For out-of-town guests:**
 
@@ -286,7 +286,7 @@ Include in invitations:
 
 ---
 
-## 🌸 Florals (Optional)
+##  Florals (Optional)
 
 **Budget:** ~$300-$500
 
@@ -320,7 +320,7 @@ Include in invitations:
 
 ---
 
-## 🎉 Day-of Logistics
+##  Day-of Logistics
 
 ### Designate Point People
 
@@ -353,7 +353,7 @@ Include in invitations:
 
 ---
 
-## 💝 Final Thoughts & Tips
+##  Final Thoughts & Tips
 
 ### Remember:
 - **It doesn't have to be perfect** - Focus on the meaning, not the details
@@ -371,7 +371,7 @@ Include in invitations:
 
 ---
 
-## 📞 Vendor Contact List
+##  Vendor Contact List
 
 *Update as vendors are booked*
 
@@ -411,4 +411,4 @@ Include in invitations:
 
 *Last Updated: January 1, 2026*  
 *53 days until wedding day!*  
-*You've got this! 💍✨*
+*You've got this! *

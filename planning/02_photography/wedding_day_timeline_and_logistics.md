@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Coverage Timeline Options
+##  Coverage Timeline Options
 
 ### OPTION 1: 2-Hour Coverage (Budget-Friendly)
 **Best for:** Elopement ceremony + family portraits only  
@@ -63,7 +63,7 @@
 
 ---
 
-## 📸 Optional Add-Ons to Either Package
+##  Optional Add-Ons to Either Package
 
 ### Add: First Look at Lenox Hotel (+30-45 min)
 **Time:** 2:00 PM - 2:30 PM (before BPL arrival)  
@@ -82,7 +82,7 @@
 
 ---
 
-## 🎯 Recommended Package Based on Priorities
+##  Recommended Package Based on Priorities
 
 **If BPL ceremony is THE priority (most budget-friendly):**
 → Choose **OPTION 1 (2 hours)** - Ceremony + quick portraits  
@@ -98,7 +98,7 @@
 
 ---
 
-## 🗺️ Location Details & Logistics
+## ️ Location Details & Logistics
 
 ### Boston Public Library (Copley Square) - PRIMARY LOCATION
 - **Address:** 700 Boylston Street, Boston, MA
@@ -248,7 +248,7 @@
 
 ---
 
-## 🎯 Photography Priorities & Style Preferences
+##  Photography Priorities & Style Preferences
 
 ### Top Priorities:
 1. ✅ **Ceremony coverage in Guastavino Room** (3:30 PM sharp - this is THE main event!)
@@ -295,7 +295,7 @@
 
 ---
 
-## 📝 Questions to Ask Your Photographer
+##  Questions to Ask Your Photographer
 
 ### Timeline & Logistics:
 1. Have you photographed at BPL's Guastavino Room before?

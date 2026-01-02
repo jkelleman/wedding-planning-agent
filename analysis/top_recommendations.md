@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 Best Balance (Quality + Value)
+##  Best Balance (Quality + Value)
 
 ### 1. CLINK Tier 2 - $94 per person
 - **Total Cost:** $3,102
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎉 Maximum Elegance (Splurge Within Budget)
+##  Maximum Elegance (Splurge Within Budget)
 
 ### 1. The Banks Dinner Tier 3 - $145 per person
 - **Total Cost:** $4,785
@@ -73,7 +73,7 @@
 
 ---
 
-## 📍 Recommendation by Meal Time
+##  Recommendation by Meal Time
 
 ### Brunch/Lunch (11am - 3pm)
 1. **The Banks Lunch** ($45pp) - Best overall value

@@ -11,7 +11,7 @@ This folder contains documents related to music planning for your ceremony, cock
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 1. **Review timeline** in the planning document
 2. **Answer the questions** about your music preferences

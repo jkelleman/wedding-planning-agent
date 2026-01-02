@@ -21,9 +21,9 @@ Complete breakdown of all 21 options within budget, organized by restaurant with
 ### [top_recommendations.md](top_recommendations.md)
 Curated recommendations organized by:
 - 💰 Best Value (maximum savings)
-- 🌟 Best Balance (quality + value)
-- 🎉 Maximum Elegance (splurge options)
-- 📍 Recommendations by meal time
+-  Best Balance (quality + value)
+-  Maximum Elegance (splurge options)
+-  Recommendations by meal time
 
 ### [restaurant_details.md](restaurant_details.md)
 In-depth information about each venue:
@@ -44,7 +44,7 @@ Action plan with:
 
 ---
 
-## 🌟 Quick Picks
+##  Quick Picks
 
 ### Best Overall Value
 **The Banks Lunch** - $45pp ($1,485 total)
@@ -57,7 +57,7 @@ Action plan with:
 
 ---
 
-## 🎯 Start Here
+##  Start Here
 
 1. Read **budget_summary.md** for full overview
 2. Check **top_recommendations.md** for curated picks
@@ -66,7 +66,7 @@ Action plan with:
 
 ---
 
-## 🔧 Using the Wedding Planning Agent
+##  Using the Wedding Planning Agent
 
 All analysis was generated using the wedding planning agent. You can continue using it for:
 

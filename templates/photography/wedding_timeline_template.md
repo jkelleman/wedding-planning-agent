@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Coverage Timeline Options
+##  Coverage Timeline Options
 
 ### OPTION 1: [# Hours] Coverage
 **Best for:** [Description of what this covers]  
@@ -80,7 +80,7 @@
 
 ---
 
-## 📸 Optional Add-Ons to Any Package
+##  Optional Add-Ons to Any Package
 
 ### Add: [Additional Coverage Name] (+[# min/hours])
 **Time:** [Start time] - [End time]  
@@ -225,7 +225,7 @@
 
 ---
 
-## 📍 Specific Location Shot List
+##  Specific Location Shot List
 
 ### [Location Name 1] - [Description]
 **Time Allocated:** [# minutes]  
@@ -258,7 +258,7 @@
 
 ---
 
-## 🎯 Must-Have Shots Checklist
+##  Must-Have Shots Checklist
 
 ### People
 - [ ] Couple portraits
@@ -296,7 +296,7 @@
 
 ---
 
-## 📞 Day-of Photography Logistics
+##  Day-of Photography Logistics
 
 ### Timeline Sharing
 - **Share with photographer by:** [Date - typically 2-4 weeks before]
@@ -357,7 +357,7 @@
 
 ---
 
-## 💡 Photography Timeline Tips
+##  Photography Timeline Tips
 
 ### Before Creating Your Timeline:
 1. **Know your priorities** - What moments matter most?

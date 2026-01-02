@@ -59,7 +59,7 @@
 
 ---
 
-## 👥 Per Person Breakdown
+##  Per Person Breakdown
 
 | Category | Cost per Person ([#] guests) |
 |----------|----------------|
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 Budget Comparison
+##  Budget Comparison
 
 ### $[Budget Amount] Budget
 - **Status:** [✅ WITHIN BUDGET / ❌ OVER BUDGET]
@@ -85,7 +85,7 @@
 
 ---
 
-## 🍽️ Complete Menu Selections
+## ️ Complete Menu Selections
 
 ### Appetizers (Choice of [#])
 - ✅ **[Appetizer 1]** - [Description]
@@ -109,7 +109,7 @@
 
 ---
 
-## 📝 Important Notes & Special Requests
+##  Important Notes & Special Requests
 
 ### Dietary Accommodations
 - [Number] guests require [dietary restriction]
@@ -135,7 +135,7 @@
 
 ---
 
-## 💡 Tips for Using This Template
+##  Tips for Using This Template
 
 1. **Get everything in writing** - Ask venue for itemized quote
 2. **Don't forget fees** - Gratuity, admin fees, and taxes can add 30-40% to subtotal

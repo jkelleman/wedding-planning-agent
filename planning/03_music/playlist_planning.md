@@ -5,7 +5,7 @@
 
 ---
 
-## 🎵 Timeline & Music Needs
+##  Timeline & Music Needs
 
 ### Part 1: Getting Ready & First Look at Lenox Hotel (2:30-3:15 PM)
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 🎼 Music Delivery Options
+##  Music Delivery Options
 
 ### Option 1: DIY Playlist (Most Affordable)
 - **Platform:** Spotify, Apple Music, or YouTube Music
@@ -169,7 +169,7 @@
 
 ---
 
-## 🎹 Questions for You
+##  Questions for You
 
 To help create the perfect playlists, please share:
 

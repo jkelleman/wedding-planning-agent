@@ -61,7 +61,7 @@
 
 ---
 
-## 👥 Per Person Breakdown
+##  Per Person Breakdown
 
 | Category | Cost per Person (20 guests) |
 |----------|----------------|
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 Budget Comparison
+##  Budget Comparison
 
 ### $5,000 Budget
 - **Status:** ❌ **OVER BUDGET**
@@ -111,7 +111,7 @@
 
 ---
 
-## 🥂 Hors d'Oeuvres Details
+##  Hors d'Oeuvres Details
 
 **Total:** 63 pieces for 20 guests = ~3 pieces per person
 
@@ -132,7 +132,7 @@
 
 ---
 
-## �🍷 Beverage Selections
+## � Beverage Selections
 
 ### Wine Service
 
@@ -170,7 +170,7 @@
 
 ---
 
-## 💡 Cost Optimization Options
+##  Cost Optimization Options
 
 **Current Total: $5,275.58** (Over $5K budget by $276)
 
@@ -223,7 +223,7 @@
 
 ---
 
-## 🎯 Key Considerations & Recommendations
+##  Key Considerations & Recommendations
 
 ### ✅ What's Working Well
 
@@ -246,7 +246,7 @@
    - $3,937 food/bev vs $2,500 minimum ✅
    - Well above requirement
 
-### ⚠️ Areas to Consider
+### ️ Areas to Consider
 
 1. **Budget Alignment**
    - Current total ($5,275.58) exceeds $5K budget by $276
@@ -287,7 +287,7 @@
 
 ---
 
-## ❓ Questions to Confirm with The Banks
+##  Questions to Confirm with The Banks
 
 ### Timing & Logistics
 1. Does cocktail hour count toward total event time or is it additional?
@@ -325,7 +325,7 @@
 
 ---
 
-## 📊 Summary
+##  Summary
 
 | Metric | Value |
 |--------|-------|
@@ -347,7 +347,7 @@
 
 ---
 
-## 🎊 Final Recommendations
+##  Final Recommendations
 
 ### If Budget is $5,000:
 **Option A: Reduce Hors d'Oeuvres**
@@ -371,7 +371,7 @@
 
 ---
 
-## 📞 Next Steps
+##  Next Steps
 
 1. **Confirm Budget**
    - Decide: $5,000 or $6,700?

@@ -29,11 +29,11 @@
 - Full Raw Bar
 
 ### Why Choose The Banks
-✓ Most pricing flexibility (5 tiers)  
-✓ Seafood specialty with steak options  
-✓ Modern, elegant Back Bay location  
-✓ Same acclaimed chef as Bistro du Midi  
-✓ Great for coastal New England theme
+ Most pricing flexibility (5 tiers)  
+ Seafood specialty with steak options  
+ Modern, elegant Back Bay location  
+ Same acclaimed chef as Bistro du Midi  
+ Great for coastal New England theme
 
 ---
 
@@ -63,11 +63,11 @@
 - Seasonal desserts
 
 ### Why Choose CLINK
-✓ Unique historic venue (former jail)  
-✓ Prix fixe menus with good variety  
-✓ Verified menu quality  
-✓ Great value at all tiers  
-✓ Interesting conversation piece venue
+ Unique historic venue (former jail)  
+ Prix fixe menus with good variety  
+ Verified menu quality  
+ Great value at all tiers  
+ Interesting conversation piece venue
 
 ---
 
@@ -94,11 +94,11 @@
 - Capacity: 6 to 200 guests
 
 ### Why Choose Bistro du Midi
-✓ Iconic Public Garden views  
-✓ Chef Sisca's flagship restaurant  
-✓ Proven track record (established venue)  
-✓ French elegance and sophistication  
-✓ Multiple private dining options
+ Iconic Public Garden views  
+ Chef Sisca's flagship restaurant  
+ Proven track record (established venue)  
+ French elegance and sophistication  
+ Multiple private dining options
 
 ---
 
@@ -124,11 +124,11 @@
 - 1 Dessert
 
 ### Why Choose Ostra
-✓ Mediterranean-inspired seafood  
-✓ Elegant, upscale atmosphere  
-✓ Expert wine pairings available  
-✓ Customizable menus  
-✓ Great for sophisticated seafood lovers
+ Mediterranean-inspired seafood  
+ Elegant, upscale atmosphere  
+ Expert wine pairings available  
+ Customizable menus  
+ Great for sophisticated seafood lovers
 
 ---
 
@@ -149,11 +149,11 @@
 - Seasonal ingredient focus
 
 ### Why Choose Mistral
-✓ Established reputation (25+ years)  
-✓ French bistro elegance  
-✓ South End location  
-✓ Great for cocktail-style reception  
-✓ Wine expertise
+ Established reputation (25+ years)  
+ French bistro elegance  
+ South End location  
+ Great for cocktail-style reception  
+ Wine expertise
 
 ---
 
@@ -182,11 +182,11 @@
 - New York Strip 12oz: +$64
 
 ### Why Choose Abe & Louie's
-✓ Classic steakhouse atmosphere  
-✓ Well-known Boston institution  
-✓ Great brunch value at $50pp  
-✓ Premium steak upgrades available  
-✓ Traditional American celebration style
+ Classic steakhouse atmosphere  
+ Well-known Boston institution  
+ Great brunch value at $50pp  
+ Premium steak upgrades available  
+ Traditional American celebration style
 
 ---
 

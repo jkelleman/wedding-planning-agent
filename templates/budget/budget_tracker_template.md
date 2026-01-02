@@ -28,22 +28,22 @@
 
 ---
 
-## 📊 Budget Status Summary
+##  Budget Status Summary
 
 - **Total Budget:** $[amount]
 - **Total Spent:** $[amount]
 - **Total Committed (booked but not paid):** $[amount]
 - **Remaining Available:** $[amount]
 - **% of Budget Used:** [%]%
-- **Status:** [✅ ON TRACK / ⚠️ APPROACHING LIMIT / ❌ OVER BUDGET]
+- **Status:** [✅ ON TRACK / ️ APPROACHING LIMIT / ❌ OVER BUDGET]
 
 ---
 
-## 🏛️ Venue & Catering
+## ️ Venue & Catering
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -59,11 +59,11 @@
 
 ---
 
-## 📸 Photography & Videography
+##  Photography & Videography
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -78,11 +78,11 @@
 
 ---
 
-## 🎵 Music & Entertainment
+##  Music & Entertainment
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -96,11 +96,11 @@
 
 ---
 
-## 💐 Flowers & Decor
+##  Flowers & Decor
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -116,11 +116,11 @@
 
 ---
 
-## 👗 Attire
+##  Attire
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -136,11 +136,11 @@
 
 ---
 
-## 💍 Rings
+##  Rings
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -156,7 +156,7 @@
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -173,11 +173,11 @@
 
 ---
 
-## 🙏 Officiant
+##  Officiant
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -187,11 +187,11 @@
 
 ---
 
-## 🚗 Transportation
+##  Transportation
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -202,11 +202,11 @@
 
 ---
 
-## 💅 Hair & Makeup
+##  Hair & Makeup
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -218,11 +218,11 @@
 
 ---
 
-## 📦 Miscellaneous
+##  Miscellaneous
 
 **Budgeted:** $[amount]  
 **Actual:** $[amount]  
-**Status:** [✅ Within budget / ⚠️ At limit / ❌ Over budget]
+**Status:** [✅ Within budget / ️ At limit / ❌ Over budget]
 
 | Item | Vendor | Budgeted | Actual | Deposit Paid | Balance Due | Due Date | Status |
 |------|--------|----------|--------|--------------|-------------|----------|--------|
@@ -236,7 +236,7 @@
 
 ---
 
-## 💡 Budget Tips & Notes
+##  Budget Tips & Notes
 
 ### Setting Your Budget
 - **Be realistic** - Research average costs in your area
@@ -280,7 +280,7 @@
 
 ---
 
-## 📅 Payment Schedule Tracking
+##  Payment Schedule Tracking
 
 | Vendor | Total Cost | Deposit | Deposit Paid Date | Next Payment | Amount | Due Date | Final Payment | Due Date |
 |--------|-----------|---------|-------------------|--------------|--------|----------|---------------|----------|

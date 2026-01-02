@@ -118,7 +118,7 @@ These are blank templates that can be copied and customized for any wedding. Sha
 
 ---
 
-## 🗂️ How to Use This Repository
+## ️ How to Use This Repository
 
 ### For Your Own Wedding:
 1. **Start in `/planning/`** - This is YOUR workspace
@@ -158,11 +158,11 @@ These are blank templates that can be copied and customized for any wedding. Sha
 - Create day-of coordination documents
 - Confirm all logistics
 
-### Phase 5: Enjoy Your Wedding! 🎉
+### Phase 5: Enjoy Your Wedding! 
 
 ---
 
-## 💡 Tips for Using This System
+##  Tips for Using This System
 
 **Keep it organized:**
 - One folder per vendor category
@@ -184,7 +184,7 @@ These are blank templates that can be copied and customized for any wedding. Sha
 
 ---
 
-## 🎯 Quick Reference: Where Do I Find...?
+##  Quick Reference: Where Do I Find...?
 
 | What I Need | Where to Look |
 |-------------|---------------|
@@ -206,4 +206,4 @@ If you found this repository helpful and created additional useful templates or 
 - Updating this README with tips
 - Sharing with other brides planning intimate weddings
 
-**This repository is designed to be a gift to the wedding planning community!** ❤️
+**This repository is designed to be a gift to the wedding planning community!** ️

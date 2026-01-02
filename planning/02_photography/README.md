@@ -26,7 +26,7 @@ This folder contains all documents related to photographer research, selection, 
 
 ---
 
-## 💡 How to Use These Files
+##  How to Use These Files
 
 ### Phase 1: Research & Selection (8-12 weeks before)
 1. Review `photographer_comparison.md` to identify top 3-5 photographers
@@ -72,7 +72,7 @@ This folder contains all documents related to photographer research, selection, 
 
 ---
 
-## 🎯 Quick Reference
+##  Quick Reference
 
 **Your Event:**
 - **Date:** Monday, February 23, 2026

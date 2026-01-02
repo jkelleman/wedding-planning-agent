@@ -39,7 +39,7 @@
 - **Email:** hello@redeyedphoto.com
 - **Phone:** Not listed
 - **Pricing:** $3,795 (wedding) / $1,395 (elopement)
-- **BPL Experience:** ⚠️ Elopement-focused (possibly)
+- **BPL Experience:** ️ Elopement-focused (possibly)
 - **Why Consider:** Very affordable elopement rate, Boston-based
 
 ### Mark Davidson
@@ -55,7 +55,7 @@
 - **Email:** hi@lensymichelle.com
 - **Phone:** Not listed
 - **Pricing:** $13,000+ (wedding) / $1,800+ (elopement)
-- **BPL Experience:** ⚠️ Boston elopements specialist
+- **BPL Experience:** ️ Boston elopements specialist
 - **Why Consider:** Elopement specialist, though higher pricing
 
 ### Melissa Robotti
@@ -63,7 +63,7 @@
 - **Email:** melissarobottiphoto@gmail.com
 - **Phone:** 508-921-0217
 - **Pricing:** Custom (intimate weddings)
-- **BPL Experience:** ⚠️ Intimate weddings (possibly)
+- **BPL Experience:** ️ Intimate weddings (possibly)
 - **Why Consider:** Custom pricing for small events
 
 ---
@@ -115,7 +115,7 @@
 - **Email:** shannon@shannongrantphotography.com
 - **Phone:** 774-283-4790
 - **Pricing:** $8,000+
-- **BPL Experience:** ⚠️ Estate/garden venues
+- **BPL Experience:** ️ Estate/garden venues
 - **Why Consider:** Premium quality, though not BPL-focused
 
 ### Servidone Studios
@@ -131,7 +131,7 @@
 - **Email:** Not listed (use website contact form)
 - **Phone:** Not listed
 - **Pricing:** Custom
-- **BPL Experience:** ⚠️ Boston & New England (possibly)
+- **BPL Experience:** ️ Boston & New England (possibly)
 - **Why Consider:** New England specialist
 
 ---

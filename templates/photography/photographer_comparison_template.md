@@ -15,15 +15,15 @@
 
 ---
 
-## 📊 Complete Photographer List
+##  Complete Photographer List
 
 | Photographer | Wedding Price | Small Wedding/Elopement Price | Website | Experience with Your Venue |
 |--------------|---------------|-------------------------------|---------|---------------------------|
-| [Name 1] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ⚠️ Note] |
-| [Name 2] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ⚠️ Note] |
-| [Name 3] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ⚠️ Note] |
-| [Name 4] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ⚠️ Note] |
-| [Name 5] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ⚠️ Note] |
+| [Name 1] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
+| [Name 2] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
+| [Name 3] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
+| [Name 4] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
+| [Name 5] | $[amount] | $[amount] | [website] | [✅ Yes / ❌ No / ️ Note] |
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🎯 TOP RECOMMENDATIONS
+##  TOP RECOMMENDATIONS
 
 ### ⭐ FIRST CHOICE: [Photographer Name]
 **Price:** $[amount] ([# hours/package details])  
@@ -83,12 +83,12 @@
 - ✅ [Pro 3]
 
 **Cons:**
-- ⚠️ [Con 1 if any]
-- ⚠️ [Con 2 if any]
+- ️ [Con 1 if any]
+- ️ [Con 2 if any]
 
 ---
 
-### 🥈 SECOND CHOICE: [Photographer Name]
+###  SECOND CHOICE: [Photographer Name]
 **Price:** $[amount] ([# hours/package details])  
 **Website:** [URL]  
 **Contact:** [email] | [phone]
@@ -108,11 +108,11 @@
 - ✅ [Pro 2]
 
 **Cons:**
-- ⚠️ [Con 1 if any]
+- ️ [Con 1 if any]
 
 ---
 
-### 🥉 THIRD CHOICE: [Photographer Name]
+###  THIRD CHOICE: [Photographer Name]
 **Price:** $[amount] ([# hours/package details])  
 **Website:** [URL]  
 **Contact:** [email] | [phone]
@@ -131,7 +131,7 @@
 - ✅ [Pro 2]
 
 **Cons:**
-- ⚠️ [Con 1 if any]
+- ️ [Con 1 if any]
 
 ---
 
@@ -187,7 +187,7 @@ Use this checklist when evaluating photographers:
 
 ---
 
-## 📞 Contact Template
+##  Contact Template
 
 Use this when reaching out to photographers:
 
@@ -227,7 +227,7 @@ Best regards,
 
 ---
 
-## 💡 Photography Selection Tips
+##  Photography Selection Tips
 
 ### Research Phase
 1. **Start early** - Book 6-12 months out for popular photographers
@@ -259,19 +259,19 @@ Best regards,
 - What's your cancellation/refund policy?
 
 ### Red Flags to Watch For
-- ⚠️ No contract provided
-- ⚠️ Requires full payment upfront
-- ⚠️ No backup equipment or plan
-- ⚠️ Inconsistent portfolio quality
-- ⚠️ Poor communication/slow to respond
-- ⚠️ No reviews or references
-- ⚠️ Unwilling to show full wedding galleries
-- ⚠️ Unclear about deliverables
-- ⚠️ Extremely low pricing (too good to be true)
+- ️ No contract provided
+- ️ Requires full payment upfront
+- ️ No backup equipment or plan
+- ️ Inconsistent portfolio quality
+- ️ Poor communication/slow to respond
+- ️ No reviews or references
+- ️ Unwilling to show full wedding galleries
+- ️ Unclear about deliverables
+- ️ Extremely low pricing (too good to be true)
 
 ---
 
-## 📸 Next Steps After Choosing
+##  Next Steps After Choosing
 
 - [ ] Book consultation/meeting with top choice
 - [ ] Review and sign contract

@@ -4,7 +4,7 @@ This folder contains reusable, blank templates that can be copied and customized
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 These templates are designed to be:
 - **Reusable** - Start fresh for any wedding
@@ -64,7 +64,7 @@ Templates for overall wedding budget tracking and vendor comparison.
 
 ---
 
-## 🔄 How to Use Templates
+##  How to Use Templates
 
 ### For Your Own Wedding:
 1. **Copy the template** file you need
@@ -90,7 +90,7 @@ Then customize with restaurant's actual pricing
 
 ---
 
-## 💡 Tips for Using Templates
+##  Tips for Using Templates
 
 **Keep originals clean:**
 - Never edit the template files directly
@@ -135,12 +135,12 @@ When creating a new template, make sure it has:
 
 ---
 
-## 🎁 Philosophy
+##  Philosophy
 
 These templates are a **gift to the wedding planning community**. If this system helped you:
 - Share it with engaged friends
 - Contribute your own useful templates
 - Improve existing templates with better instructions
-- Pass it forward! ❤️
+- Pass it forward! ️
 
 **Planning a wedding should be joyful, not stressful. Templates help take away the "blank page" problem and let you focus on the decisions that matter.**

@@ -16,22 +16,22 @@
 
 ---
 
-## 📊 Complete Photographer List
+##  Complete Photographer List
 
 | Photographer | Wedding Price | Elopement/Small Price | Website | BPL Experience |
 |--------------|---------------|----------------------|---------|----------------|
 | Erin of Boston | $5,000 | $1,650 | erinofboston.com | ✅ Yes |
-| Red Eyed Photography | $3,795 | $1,395 | redeyedphoto.com | ⚠️ Elopement-focused |
-| Lensy Michelle | $6,500+ | $1,800+ | lensymichelle.com | ⚠️ Boston elopements |
+| Red Eyed Photography | $3,795 | $1,395 | redeyedphoto.com | ️ Elopement-focused |
+| Lensy Michelle | $6,500+ | $1,800+ | lensymichelle.com | ️ Boston elopements |
 | Mark Davidson | $4,000 | $500-$750 | mark-davidson.com | ❌ Not specified |
-| Melissa Robotti | Custom | Custom (up to 5 hrs) | melissarobottiphotography.com | ⚠️ Intimate weddings |
+| Melissa Robotti | Custom | Custom (up to 5 hrs) | melissarobottiphotography.com | ️ Intimate weddings |
 | Nicole Chan | $7,000 | $5,500+ (associate) | nicolechanphotography.com | ✅ Yes - Frequently |
 | Zev Fisher | $4,200+ | Not listed | zevfisher.com | ✅ Yes - Featured |
 | Leise Jones | $1,500 | $700/add'l hour | leisejones.com | ❌ Not specified |
 | Lena Mirisola | $9,850+ | Not listed | lenamirisolaphoto.com | ✅ Yes - Featured |
-| Shannon Grant | $8,000+ | Not listed | shannon-grant.com | ⚠️ Estate/garden venues |
+| Shannon Grant | $8,000+ | Not listed | shannon-grant.com | ️ Estate/garden venues |
 | Kelly Benvenuto | $6,000 | $1,500 | kellybenvenuto.com | ✅ Yes - Classic Boston |
-| First Mate Photo Co. | Custom | Custom | firstmatephotoco.com | ⚠️ Boston/New England |
+| First Mate Photo Co. | Custom | Custom | firstmatephotoco.com | ️ Boston/New England |
 | Mikhail Glabets | $7,000+ | Not listed | mikhailglabets.com | ✅ Yes - Featured |
 | Servidone Studios | Custom | Custom | servidonestudios.com | ❌ Not specified |
 | Studio Nouveau | Custom | Custom | studionouveau.com | ✅ Yes - Frequently |
@@ -133,7 +133,7 @@
 
 ---
 
-## 🎯 Top Recommendations by Budget
+##  Top Recommendations by Budget
 
 ### For $1,500-$2,000 Budget (3 hours coverage)
 **Best Match for Your Event:**
@@ -213,7 +213,7 @@
 
 ---
 
-## 🎨 Photography Style Guide
+##  Photography Style Guide
 
 **Documentary/Photojournalistic:**
 - Candid, natural moments
@@ -284,7 +284,7 @@ This file includes:
 
 ---
 
-## 💡 Money-Saving Tips
+##  Money-Saving Tips
 
 1. **Book during off-peak season** (Nov-Mar = better rates)
 2. **Weekday events** often cost 20-30% less
@@ -297,6 +297,6 @@ This file includes:
 
 ---
 
-## 📞 Ready-to-Send Inquiry Email
+##  Ready-to-Send Inquiry Email
 
 See: `photographer_inquiry_email.txt` (to be created)

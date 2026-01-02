@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Target Scenarios
+##  Target Scenarios
 
 ### Scenario 1: The Banks Dinner Tier 2
 **Current Offering:**
@@ -137,7 +137,7 @@ Best regards,
 
 ---
 
-## 💡 Negotiation Tips & Best Practices
+##  Negotiation Tips & Best Practices
 
 ### When to Negotiate
 ✅ **After receiving initial quote**

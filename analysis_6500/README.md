@@ -10,11 +10,11 @@ This folder contains comprehensive analysis for a **$6,700 budget** serving 25 g
 
 ---
 
-## 🎉 Key Difference: ALL Options Now Fit!
+##  Key Difference: ALL Options Now Fit!
 
 With the increased budget from $5,000 to $6,700:
 - **Previously:** 21 options within budget, 2 over budget
-- **Now:** ALL 20 options are affordable! 🎊
+- **Now:** ALL 20 options are affordable! 
 
 **New Premium Options Available:**
 - ✅ Ostra Four-Course ($155pp) - Was over, now fits!
@@ -35,8 +35,8 @@ Complete breakdown of all 20 options, ALL within budget!
 
 ### [top_recommendations.md](top_recommendations.md)
 Curated recommendations for $6,700 budget:
-- 💎 Premium options (now affordable!)
-- 🌟 Best balance options
+-  Premium options (now affordable!)
+-  Best balance options
 - 💰 Best value options
 - Budget allocation strategies
 
@@ -45,7 +45,7 @@ Direct comparison showing what's newly affordable with extra $1,700.
 
 ---
 
-## 🌟 Quick Picks for $6,700 Budget
+##  Quick Picks for $6,700 Budget
 
 ### Maximum Elegance
 **Ostra Cocktail + 4-Course** - $175pp ($5,775 total)
@@ -67,7 +67,7 @@ Direct comparison showing what's newly affordable with extra $1,700.
 
 ---
 
-## 💡 Budget Strategy
+##  Budget Strategy
 
 ### How Much Should You Spend?
 
@@ -97,7 +97,7 @@ Direct comparison showing what's newly affordable with extra $1,700.
 
 ---
 
-## 🎯 Top 3 Recommendations
+##  Top 3 Recommendations
 
 1. **The Banks Dinner Tier 3** ($4,785)
    - Best balance: quality + venue + savings
@@ -116,7 +116,7 @@ Direct comparison showing what's newly affordable with extra $1,700.
 
 ---
 
-## 📊 By Savings Amount
+##  By Savings Amount
 
 | Spending Range | Options Available | Savings Range |
 |----------------|-------------------|---------------|
@@ -128,7 +128,7 @@ Direct comparison showing what's newly affordable with extra $1,700.
 
 ---
 
-## 🔄 Comparison: $5,000 vs $6,700 Budget
+##  Comparison: $5,000 vs $6,700 Budget
 
 ### Previously Over Budget, Now Affordable:
 - Ostra Four-Course: Was $115 over → Now $1,585 under ✅
@@ -170,7 +170,7 @@ python3 main.py skills execute budget_tracker --budget_total 6700
 
 ---
 
-## 📞 Next Steps
+##  Next Steps
 
 1. **Review** budget_summary.md for all options
 2. **Narrow down** to 3-5 favorites from top_recommendations.md

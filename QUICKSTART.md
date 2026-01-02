@@ -1,6 +1,6 @@
-# Wedding Planning Agent - Quick Start Guide 🎉
+# Wedding Planning Agent - Quick Start Guide 
 
-## What's New? ✨
+## What's New? 
 
 Your wedding planning agent now has **3 major new capabilities**:
 
@@ -10,7 +10,7 @@ Your wedding planning agent now has **3 major new capabilities**:
 - Drafts professional negotiation emails in 3 tones
 - Provides tactical talking points and strategies
 
-### 2. 🧩 Extensible Skills System
+### 2.  Extensible Skills System
 - Plugin architecture - easily add new capabilities
 - Auto-discovery - just drop a file in `src/skills/` and it's ready
 - Built-in skills included:
@@ -70,7 +70,7 @@ python main.py skills list
 
 ## Common Use Cases
 
-### 📊 Scenario 1: You received a venue quote
+###  Scenario 1: You received a venue quote
 ```bash
 # Analyze if it's a good deal
 python main.py negotiate data/raw/venue_grand_hall.pdf
@@ -94,7 +94,7 @@ python main.py skills run --name vendor_comparison --args '{
 }'
 ```
 
-### 📅 Scenario 3: Create your planning timeline
+###  Scenario 3: Create your planning timeline
 ```bash
 python main.py skills run --name timeline_generator --args '{
   "wedding_date": "2026-06-15",
@@ -102,7 +102,7 @@ python main.py skills run --name timeline_generator --args '{
 }'
 ```
 
-### 📑 Scenario 4: Review a vendor contract
+###  Scenario 4: Review a vendor contract
 ```bash
 python main.py skills run --name contract_analyzer --args '{
   "contract_file": "data/raw/venue_contract.pdf"
@@ -144,7 +144,7 @@ outputs/
     └── negotiation_report_20251227_143100.txt
 ```
 
-## Pro Tips 💡
+## Pro Tips 
 
 1. **Start with the recommend command** - It gives you an overview of all your options ranked by fit
 
@@ -215,4 +215,4 @@ python main.py skills --help
 
 Check `README.md` for full documentation.
 
-Happy planning! 🎊
+Happy planning! 

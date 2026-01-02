@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Your Priorities for This Vendor
+##  Your Priorities for This Vendor
 
 Rank your top priorities (1 = most important):
 
@@ -23,7 +23,7 @@ Rank your top priorities (1 = most important):
 
 ---
 
-## 📊 Vendor Comparison Chart
+##  Vendor Comparison Chart
 
 | Criteria | Vendor 1: [Name] | Vendor 2: [Name] | Vendor 3: [Name] | Vendor 4: [Name] |
 |----------|------------------|------------------|------------------|------------------|
@@ -75,8 +75,8 @@ Rank your top priorities (1 = most important):
 - ✅ [Positive aspect 3]
 
 **Cons:**
-- ⚠️ [Concern 1]
-- ⚠️ [Concern 2]
+- ️ [Concern 1]
+- ️ [Concern 2]
 
 **Reviews & References:**
 - **Overall Rating:** [#.#] / 5 stars ([# reviews])
@@ -139,8 +139,8 @@ Rank your top priorities (1 = most important):
 - ✅ [Pro 2]
 
 **Cons:**
-- ⚠️ [Con 1]
-- ⚠️ [Con 2]
+- ️ [Con 1]
+- ️ [Con 2]
 
 **Reviews:** [Rating and notes]
 
@@ -166,7 +166,7 @@ Rank your top priorities (1 = most important):
 
 ---
 
-## 🏆 Final Rankings
+##  Final Rankings
 
 ### 1st Place: [Vendor Name]
 **Why they won:**
@@ -193,7 +193,7 @@ Rank your top priorities (1 = most important):
 
 ---
 
-## 📝 Side-by-Side Feature Comparison
+##  Side-by-Side Feature Comparison
 
 Use this table to compare specific features that matter to you:
 
@@ -261,7 +261,7 @@ Before booking, make sure you've:
 
 ---
 
-## 📞 Important Questions to Ask
+##  Important Questions to Ask
 
 Customize this list based on vendor category:
 
@@ -311,7 +311,7 @@ Customize this list based on vendor category:
 
 ---
 
-## 💡 Vendor Comparison Tips
+##  Vendor Comparison Tips
 
 ### Research Phase
 1. **Cast a wide net** - Contact 5-10 vendors initially
@@ -335,20 +335,20 @@ Customize this list based on vendor category:
 5. **Book with confidence** - Once decided, don't second-guess
 
 ### Red Flags to Watch For
-- ⚠️ No written contract
-- ⚠️ Requires full payment upfront
-- ⚠️ No insurance or backup plan
-- ⚠️ Inconsistent portfolio quality
-- ⚠️ Poor or slow communication
-- ⚠️ No reviews or refuses to provide references
-- ⚠️ Extremely low pricing (too good to be true)
-- ⚠️ Pushy or aggressive sales tactics
-- ⚠️ Vague about deliverables or timeline
-- ⚠️ Bad reviews about similar issues
+- ️ No written contract
+- ️ Requires full payment upfront
+- ️ No insurance or backup plan
+- ️ Inconsistent portfolio quality
+- ️ Poor or slow communication
+- ️ No reviews or refuses to provide references
+- ️ Extremely low pricing (too good to be true)
+- ️ Pushy or aggressive sales tactics
+- ️ Vague about deliverables or timeline
+- ️ Bad reviews about similar issues
 
 ---
 
-## 📊 Scoring System (Optional)
+##  Scoring System (Optional)
 
 Rate each vendor on a scale of 1-10 for each criterion, then total:
 
@@ -376,7 +376,7 @@ Rate each vendor on a scale of 1-10 for each criterion, then total:
 
 ---
 
-## 📅 Next Steps After Choosing
+##  Next Steps After Choosing
 
 - [ ] **Email top choice** to confirm availability and intent to book
 - [ ] **Request contract** and review thoroughly
@@ -386,7 +386,7 @@ Rate each vendor on a scale of 1-10 for each criterion, then total:
 - [ ] **Add to vendor contact list** with all details
 - [ ] **Calendar payment due dates** and key milestone meetings
 - [ ] **Email runners-up** to thank them and keep warm (in case of cancellation)
-- [ ] **Celebrate** - you've booked another vendor! 🎉
+- [ ] **Celebrate** - you've booked another vendor! 
 
 ---
 
