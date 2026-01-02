@@ -1,414 +1,208 @@
-# Wedding Planning Agent 🎉💍# Wedding Planning Agent 🎉💍# Wedding Planning Agent 🎉
+# Wedding Planning Agent 🎉💍# Wedding Planning Agent 🎉
 
 
 
-A wedding planning repository serving two purposes: a personal workspace for organizing your celebration and a template library to share with friends.
+An AI-powered wedding planning assistant AND reusable template system for planning intimate weddings and elopements. Whether you're planning your own celebration or helping a friend, this repository provides structure, templates, and automation tools.An AI-powered wedding planning assistant that scans vendor documents, organizes options, provides personalized recommendations, and helps you plan your perfect celebration.
 
 
 
----An AI-powered wedding planning assistant AND reusable template system for planning intimate weddings and elopements. Whether you're planning your own celebration or helping a friend, this repository provides structure, templates, and automation tools.An AI-powered wedding planning assistant that scans vendor documents, organizes options, provides personalized recommendations, and helps you plan your perfect celebration.
+---## 📊 Project Status - December 2025
 
 
 
-## 🎯 Two Ways to Use This
+## 🎯 Two Ways to Use This Repository### 🎯 Current Event Planning
 
+**Venue:** The Banks Seafood and Steak - Fireplace Room  
 
+### 1. **For Your Own Wedding Planning****Guest Count:** 20 people  
 
-**Personal Planning:** Work in `/planning/` with documents tracking your vendors, costs, and timeline.---## 📊 Project Status - December 2025
+Work in the `/planning/` folder with your personalized wedding documents. Track costs, research vendors, and organize all your details.**Budget:** $6,700  
 
+**Date:** TBD  
 
+### 2. **As a Template Library for Others****Status:** Finalizing menu selections and vendor communications
 
-**Share with Friends:** Give them `/templates/`—blank worksheets for venue research, photography, music, and budgets.
+Share the `/templates/` folder with engaged friends. Blank, customizable templates for venue research, photographer selection, music planning, and more.
 
+### ✅ Completed Milestones
 
+---
 
----## 🎯 Two Ways to Use This Repository### 🎯 Current Event Planning
-
-
-
-## 📁 Structure**Venue:** The Banks Seafood and Steak - Fireplace Room  
-
-
-
-```### 1. **For Your Own Wedding Planning****Guest Count:** 20 people  
-
-├── planning/          # Your personal wedding documents
-
-│   ├── 01_venue_and_catering/Work in the `/planning/` folder with your personalized wedding documents. Track costs, research vendors, and organize all your details.**Budget:** $6,700  
-
-│   ├── 02_photography/
-
-│   ├── 03_music/**Date:** TBD  
-
-│   └── 04_other_vendors/
-
-│### 2. **As a Template Library for Others****Status:** Finalizing menu selections and vendor communications
-
-├── templates/         # Blank templates (shareable!)
-
-│   ├── venue_and_catering/Share the `/templates/` folder with engaged friends. Blank, customizable templates for venue research, photographer selection, music planning, and more.
-
-│   ├── photography/
-
-│   ├── music/### ✅ Completed Milestones
-
-│   └── budget/
-
-│---
-
-├── data/              # Vendor PDFs and materials
-
-└── src/               # Optional Python automation tools#### Phase 1: Vendor Research & Analysis
-
-```
+#### Phase 1: Vendor Research & Analysis
 
 ## 📁 Repository Structure at a Glance- ✅ Scanned **68+ vendor PDFs** from 11 Boston restaurants
 
-**📖 [Detailed Structure Guide →](REPOSITORY_STRUCTURE.md)**
-
 - ✅ Extracted pricing, menu options, and capacity details
-
----
 
 ```- ✅ Analyzed options for $5,000 budget (18 venues fit)
 
-## 📊 Real Wedding Example
-
 wedding-planning-agent/- ✅ Analyzed options for $6,700 budget (20 venues fit - all options!)
-
-This repository is actively planning a February 23, 2026 wedding in Boston (20 guests, $7-8K budget).
 
 │- ✅ Created comprehensive comparison documents
 
-### Current Status
-
 ├── planning/                    # YOUR wedding planning workspace
 
-**✅ Venue & Catering - Complete**
+│   ├── 01_venue_and_catering/  # Venue costs, menus, vendor emails#### Phase 2: Venue Selection
 
-- Selected: The Banks Seafood - Fireplace Room│   ├── 01_venue_and_catering/  # Venue costs, menus, vendor emails#### Phase 2: Venue Selection
+│   ├── 02_photography/         # Photographer research & timeline- ✅ Selected **The Banks Seafood and Steak** - Fireplace Room
 
-- Cost: $5,407 (Tier 2 dinner + hors d'oeuvres + beverages)
+│   ├── 03_music/               # Playlist planning- ✅ Reviewed private dining packet and beverage options
 
-- Menu finalized with dietary accommodations│   ├── 02_photography/         # Photographer research & timeline- ✅ Selected **The Banks Seafood and Steak** - Fireplace Room
-
-
-
-**📸 Photography - In Progress**│   ├── 03_music/               # Playlist planning- ✅ Reviewed private dining packet and beverage options
-
-- Researched 15 Boston photographers
-
-- Top 3 identified: Kelly Benvenuto ($1,500), Erin of Boston ($1,650), Leise Jones ($1,500+)│   └── 04_other_vendors/       # Florals, officiant, etc.- ✅ Calculated detailed costs for Tier 2 dinner menu
-
-- Ready to contact and book
+│   └── 04_other_vendors/       # Florals, officiant, etc.- ✅ Calculated detailed costs for Tier 2 dinner menu
 
 │- ✅ Finalized menu selections:
 
-**🎵 Music - Started**
-
-- Planning worksheet created├── templates/                   # Blank reusable templates (SHAREABLE!)  - 3 appetizer choices
-
-- Needs: ceremony songs, cocktail hour, reception music
+├── templates/                   # Blank reusable templates (SHAREABLE!)  - 3 appetizer choices
 
 │   ├── venue_and_catering/     # Venue templates  - 4 entrée options
 
----
-
 │   ├── photography/            # Photography templates  - 2 family-style sides
-
-## 🚀 Quick Start
 
 │   ├── music/                  # Music templates  - 3 dessert selections
 
-### For Your Own Wedding
-
 │   └── budget/                 # Budget tracking templates  - 5 types of hors d'oeuvres for cocktail hour
 
-1. **Browse `/planning/`** - See real examples of planning documents
+│
 
-2. **Copy from `/templates/`** - Use blank worksheets as starting points│
+├── data/                        # Store vendor PDFs and brochures#### Phase 3: Menu Planning & Budgeting
 
-3. **Store vendor materials** in `/data/organized/` by category
+│   ├── organized/              # Sorted by category- ✅ Created detailed cost breakdown: **$5,406.90 total**
 
-4. **Follow the workflow** below├── data/                        # Store vendor PDFs and brochures#### Phase 3: Menu Planning & Budgeting
+│   └── raw/                    # Unsorted materials  - Dinner: $2,600 (Tier 2 + sides)
 
+│  - Hors d'oeuvres: $575 (increased per family feedback)
 
+└── src/                         # Python automation tools (optional)  - Beverages: $860 (6 wine bottles + ~20 cocktails)
 
-### To Share With Friends│   ├── organized/              # Sorted by category- ✅ Created detailed cost breakdown: **$5,406.90 total**
+    ├── scanner.py              # Extract text from PDFs  - Fees included: 20% gratuity, 7% admin, 7% tax
 
+    ├── organizer.py            # Organize vendor docs- ✅ Accommodated dietary restrictions:
 
+    └── recommender.py          # Analyze and recommend  - 2 guests with celiac disease (gluten-free)
 
-1. Send them the `/templates/` folder│   └── raw/                    # Unsorted materials  - Dinner: $2,600 (Tier 2 + sides)
+```  - 1 guest with tree nut allergy
 
-2. Include [`REPOSITORY_STRUCTURE.md`](REPOSITORY_STRUCTURE.md) for guidance
+  - ~10 non-drinking guests (religious/health/preference/age)
 
-3. They copy templates and customize for their wedding│  - Hors d'oeuvres: $575 (increased per family feedback)
-
-
-
----└── src/                         # Python automation tools (optional)  - Beverages: $860 (6 wine bottles + ~20 cocktails)
-
-
-
-## 📋 Planning Workflow    ├── scanner.py              # Extract text from PDFs  - Fees included: 20% gratuity, 7% admin, 7% tax
+**👉 See [`REPOSITORY_STRUCTURE.md`](REPOSITORY_STRUCTURE.md) for complete detailed guide**- ✅ Optimized beverage quantities for guest mix
 
 
 
-### Phase 1: Research (Weeks 1-4)    ├── organizer.py            # Organize vendor docs- ✅ Accommodated dietary restrictions:
+---#### Phase 4: Communication Materials
 
-- Set overall budget
-
-- Research venues and vendors (use templates)    └── recommender.py          # Analyze and recommend  - 2 guests with celiac disease (gluten-free)
-
-- Get quotes from 3-5 options per category
-
-- Refine budget based on real costs```  - 1 guest with tree nut allergy
-
-
-
-### Phase 2: Booking (Weeks 5-12)  - ~10 non-drinking guests (religious/health/preference/age)
-
-- Send inquiry emails (templates provided)
-
-- Schedule consultations**👉 See [`REPOSITORY_STRUCTURE.md`](REPOSITORY_STRUCTURE.md) for complete detailed guide**- ✅ Optimized beverage quantities for guest mix
-
-- Review contracts carefully
-
-- Book vendors and pay deposits
-
-
-
-### Phase 3: Details (Weeks 13-8 before event)---#### Phase 4: Communication Materials
-
-- Finalize menu, music, timeline
-
-- Book remaining vendors- ✅ Created vendor inquiry email with 21 detailed questions
-
-- Confirm all logistics
+- ✅ Created vendor inquiry email with 21 detailed questions
 
 ## 🚀 Quick Start Guide- ✅ Prepared guest invitation details (plain & formatted versions)
 
-### Phase 4: Final Coordination (Last 8 weeks)
+- ✅ Documented all menu selections with full descriptions
 
-- Send final headcount to venue- ✅ Documented all menu selections with full descriptions
-
-- Share timeline with vendors
-
-- Prepare emergency kit### Planning Your Own Wedding?- ✅ Set event timeline: 5-8 PM (1 hour cocktails, 2 hours dinner)
-
-- Trust your planning and enjoy!
+### Planning Your Own Wedding?- ✅ Set event timeline: 5-8 PM (1 hour cocktails, 2 hours dinner)
 
 
-
----
 
 1. **Navigate to `/planning/`** - This is YOUR workspace### 📁 Project Organization
 
-## 📂 What's in Each Folder
-
    - Each subfolder has a README explaining what goes there
-
-### `/planning/` - Your Personal Documents
 
    - Use existing files as examples```
 
-**01_venue_and_catering/** - Venue costs, menus, vendor emails, guest lists  
+analysis/                    # Original $5K budget analysis
 
-**02_photography/** - Photographer research, timeline, shot lists  analysis/                    # Original $5K budget analysis
+2. **Copy templates when needed** - Start fresh on any documentanalysis_6500/              # Expanded $6.7K budget analysis
 
-**03_music/** - Playlist planning by timeline section  
+   - Browse `/templates/` for blank worksheetsanalysis_thebanks/          # Detailed venue-specific planning
 
-**04_other_vendors/** - Florals, officiant, transportation, etc.2. **Copy templates when needed** - Start fresh on any documentanalysis_6500/              # Expanded $6.7K budget analysis
+   - Copy to your `/planning/` folder and customize├── detailed_cost_analysis.md
 
+├── email_to_thebanks.txt
 
-
-*Each folder has its own README with detailed guidance.*   - Browse `/templates/` for blank worksheetsanalysis_thebanks/          # Detailed venue-specific planning
-
-
-
-### `/templates/` - Blank Worksheets (Shareable)   - Copy to your `/planning/` folder and customize├── detailed_cost_analysis.md
-
-
-
-**venue_and_catering/** - Cost analysis, vendor inquiry email, guest invitation  ├── email_to_thebanks.txt
-
-**photography/** - Photographer comparison, inquiry email, timeline template  
-
-**music/** - Playlist planning worksheet  3. **Store vendor materials** - Keep PDFs organized├── email_to_thebanks_formatted.txt
-
-**budget/** - Budget tracker, vendor comparison tool
+3. **Store vendor materials** - Keep PDFs organized├── email_to_thebanks_formatted.txt
 
    - Put vendor brochures in `/data/organized/` by category├── guest_invitation_details.txt
 
-*See [`templates/README.md`](templates/README.md) for how to use these.*
-
    - Easy to reference when making decisions└── guest_invitation_details_formatted.txt
-
----
 
 data/raw/                   # 68 vendor PDFs organized by restaurant
 
-## 💡 Key Features
-
 4. **Follow the planning workflow** (see below)```
 
-✨ **Clear Structure** - Numbered folders guide you through planning phases  
-
-📝 **Real Examples** - See actual planning documents in action  
-
-📋 **Blank Templates** - Easy starting points for any wedding  
-
-💰 **Budget Tools** - Track costs and compare vendors  ### Sharing With a Friend?### 🎯 Next Steps
-
-📧 **Email Templates** - Professional vendor communications  
-
-🎁 **Shareable** - Help friends plan their celebrations1. ⏳ Send inquiry email to The Banks
 
 
+### Sharing With a Friend?### 🎯 Next Steps
 
----1. **Share the `/templates/` folder** - These are the blank, reusable documents2. ⏳ Schedule tasting and site visit
+1. ⏳ Send inquiry email to The Banks
+
+1. **Share the `/templates/` folder** - These are the blank, reusable documents2. ⏳ Schedule tasting and site visit
+
+2. **Share `REPOSITORY_STRUCTURE.md`** - Explains how the system works3. ⏳ Confirm final date and finalize guest count
+
+3. **They copy templates to their own workspace** - Customize for their event4. ⏳ Send guest invitations with menu details
+
+4. **Pass it forward!** - This is a gift to the wedding planning community ❤️5. ⏳ Book photographer, florist, and other services
 
 
 
-## 🔧 Optional: Python Automation Tools2. **Share `REPOSITORY_STRUCTURE.md`** - Explains how the system works3. ⏳ Confirm final date and finalize guest count
+---### 💰 Budget Summary
+
+- **Original Budget:** $5,000 → Over by $407
+
+## 📊 Current Wedding Planning Example- **Adjusted Budget:** $6,700 → **$1,293 remaining** ✅
+
+- **Cost per Person:** $270.35
+
+**This repository is actively being used to plan a real wedding!** Here's the current status:- **Venue Minimum Met:** $4,035 > $2,500 ✅
 
 
-
-The `/src/` folder contains optional Python scripts for automating tasks:3. **They copy templates to their own workspace** - Customize for their event4. ⏳ Send guest invitations with menu details
-
-
-
-- **scanner.py** - Extract text from vendor PDFs4. **Pass it forward!** - This is a gift to the wedding planning community ❤️5. ⏳ Book photographer, florist, and other services
-
-- **organizer.py** - Auto-organize vendor documents
-
-- **recommender.py** - Analyze and recommend vendors
-
-
-
-**Not technical?** You can completely ignore this folder and use the planning/template system manually!---### 💰 Budget Summary
-
-
-
-**Want to try it?** Install dependencies and see docs in `/src/`.- **Original Budget:** $5,000 → Over by $407
-
-
-
----## 📊 Current Wedding Planning Example- **Adjusted Budget:** $6,700 → **$1,293 remaining** ✅
-
-
-
-## 📚 Documentation- **Cost per Person:** $270.35
-
-
-
-- **[REPOSITORY_STRUCTURE.md](REPOSITORY_STRUCTURE.md)** - Complete guide to organization**This repository is actively being used to plan a real wedding!** Here's the current status:- **Venue Minimum Met:** $4,035 > $2,500 ✅
-
-- **[WEDDING_CHECKLIST.md](WEDDING_CHECKLIST.md)** - Master planning checklist
-
-- **[templates/README.md](templates/README.md)** - How to use templates
-
-- **planning/*/README.md** - Guidance for each planning folder
 
 ### Event Overview---
 
----
-
 - **Date:** Monday, February 23, 2026
-
-## 🤝 Contributing & Sharing
 
 - **Type:** Intimate elopement ceremony + dinner celebration  ## ✨ Features
 
-### Found This Helpful?
-
 - **Location:** Boston, MA
 
-**Share it:** Give the `/templates/` folder to engaged friends  
-
-**Improve it:** Add your own templates and tips  - **Guest Count:** 20 people### Core Functionality
-
-**Pay it forward:** This is a gift to the wedding planning community ❤️
+- **Guest Count:** 20 people### Core Functionality
 
 - **Total Budget:** ~$7,000-$8,000- **Document Scanning**: Extract text from PDFs and images (PNGs, JPGs) using OCR
 
-### Want to Contribute?
-
 - **Smart Metadata Extraction**: Automatically detects venue names, prices, capacity, dietary options, and categories
 
-- Create new templates for other wedding categories
-
-- Share your planning tips in READMEs### Venue & Catering ✅ COMPLETE- **File Organization**: Renames and organizes files with clear conventions: `{category}_{venue}_{price}_{original_name}`
-
-- Improve existing templates based on your experience
+### Venue & Catering ✅ COMPLETE- **File Organization**: Renames and organizes files with clear conventions: `{category}_{venue}_{price}_{original_name}`
 
 - **Selected:** The Banks Seafood and Steak - Fireplace Room- **Intelligent Recommendations**: Ranks options by fit score considering budget, dietary needs, and capacity
 
----
-
 - **Menu:** Tier 2 three-course dinner + 5 hors d'oeuvres varieties- **Detailed Reports**: Generate comprehensive reports with top recommendations per category
-
-## 🎉 Philosophy
 
 - **Cost:** $5,406.90 (includes food, beverages, all fees)
 
-Wedding planning should be **joyful, not stressful**. This system helps by:
-
 - **Status:** Menu finalized, vendor inquiry email ready to send### 🆕 Negotiation Agent
 
-1. **Providing structure** without being rigid
+- **Quote Analysis**: Analyzes vendor quotes against market rates and your budget
 
-2. **Organizing information** in one place- **Quote Analysis**: Analyzes vendor quotes against market rates and your budget
-
-3. **Reducing decision fatigue** with templates
-
-4. **Enabling sharing** to help future brides**Files created:**- **Counter-Offer Suggestions**: Calculates strategic counter-offers (15-20% reductions)
-
-5. **Staying flexible** - use what helps, skip what doesn't
+**Files created:**- **Counter-Offer Suggestions**: Calculates strategic counter-offers (15-20% reductions)
 
 - ✅ `planning/01_venue_and_catering/venue_cost_analysis.md` - Complete breakdown- **Email Draft Generation**: Creates professional negotiation emails in 3 tones:
 
-**Remember:** Your wedding is about celebrating love, not perfect spreadsheets. Use this system to reduce stress and stay organized so you can focus on what matters most.
-
 - ✅ `planning/01_venue_and_catering/vendor_inquiry_email.txt` - Ready to send  - **Professional**: Formal business tone
-
----
 
 - ✅ `planning/01_venue_and_catering/guest_invitation_details.txt` - Guest info  - **Friendly**: Warm and personable
 
-## 📞 Need Help?
-
   - **Firm**: Direct and assertive
 
-**Using This Repository:**
+### Photography 📸 IN PROGRESS- **Market Comparison**: Compares quotes to industry averages
 
-- Read [REPOSITORY_STRUCTURE.md](REPOSITORY_STRUCTURE.md) for organization details### Photography 📸 IN PROGRESS- **Market Comparison**: Compares quotes to industry averages
+- **Ceremony Location:** Boston Public Library - Guastavino Room (3:30 PM)- **Negotiation Strategies**: Provides tactical approaches and talking points
 
-- Check folder READMEs for specific guidance
+- **Coverage Needed:** 2-3 hours (recommend 3 hours)- **Batch Analysis**: Analyze multiple quotes and generate comprehensive reports
 
-- Look at `/planning/` for real examples- **Ceremony Location:** Boston Public Library - Guastavino Room (3:30 PM)- **Negotiation Strategies**: Provides tactical approaches and talking points
-
-
-
-**Planning Your Wedding:**- **Coverage Needed:** 2-3 hours (recommend 3 hours)- **Batch Analysis**: Analyze multiple quotes and generate comprehensive reports
-
-- Use checklists in planning folders
-
-- Reference workflows in this README- **Budget:** $1,500-$2,500
-
-- Trust your instincts - it's YOUR celebration!
+- **Budget:** $1,500-$2,500
 
 - **Status:** Researched 15 photographers, ready to contact top 3### 🆕 Extensible Skills System
 
----
-
 Plugin architecture for adding custom capabilities. Includes built-in skills:
 
-*Last updated: January 1, 2026*  
-
-*Currently planning: February 23, 2026 elopement in Boston*  **Top 3 Photographers:**
-
-*Created as a tool and gift to the wedding planning community* 💍✨
+**Top 3 Photographers:**
 
 1. Kelly Benvenuto - $1,500 (BPL experience ✅)- **Contract Analyzer**: Extracts payment terms, cancellation policies, and red flags from vendor contracts
 
