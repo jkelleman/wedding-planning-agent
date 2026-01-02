@@ -52,15 +52,23 @@ An AI-powered wedding planning assistant that scans vendor documents, organizes 
 ### 📁 Project Organization
 
 ```
-analysis/                    # Original $5K budget analysis
-analysis_6500/              # Expanded $6.7K budget analysis
-analysis_thebanks/          # Detailed venue-specific planning
- detailed_cost_analysis.md
- email_to_thebanks.txt
- email_to_thebanks_formatted.txt
- guest_invitation_details.txt
- guest_invitation_details_formatted.txt
-data/raw/                   # 68 vendor PDFs organized by restaurant
+examples/                    # Personal wedding example (Boston, Feb 2026)
+  ├── planning/             # Planning documents by category
+  ├── analysis_5000/        # Original $5K budget analysis
+  ├── analysis_6500/        # Expanded $6.7K budget analysis
+  ├── data/                 # Vendor PDFs and materials
+  └── outputs/              # Generated reports
+
+templates/                  # Blank worksheets for anyone to use
+  ├── venue_and_catering/
+  ├── photography/
+  ├── music/
+  └── budget/
+
+docs/                       # Documentation and guides
+  ├── REPOSITORY_STRUCTURE.md
+  ├── WEDDING_CHECKLIST.md
+  └── QUICKSTART.md
 ```
 
 ###  Next Steps
@@ -357,24 +365,46 @@ wedding-planning-agent/
  config.yaml                # User preferences and budget
  requirements.txt           # Python dependencies
  README.md                  # This file
- src/
+ 
+ examples/                  # EXAMPLE: Personal wedding (Boston, Feb 2026)
+    planning/              # Planning documents by category
+      01_venue_and_catering/
+      02_photography/
+      03_music/
+      04_other_vendors/
+    analysis_5000/         # Original $5K budget analysis
+    analysis_6500/         # Expanded $6.7K budget analysis
+    data/                  # Vendor PDFs and materials
+      raw/
+      organized/
+    outputs/               # Generated reports
+      recommendations/
+      negotiation/
+ 
+ templates/                 # TEMPLATES: Blank worksheets for anyone
+    venue_and_catering/
+    photography/
+    music/
+    budget/
+ 
+ docs/                      # Documentation and guides
+    REPOSITORY_STRUCTURE.md
+    WEDDING_CHECKLIST.md
+    QUICKSTART.md
+ 
+ src/                       # Optional: Python automation tools
     __init__.py
     scanner.py             # PDF/PNG text extraction
     organizer.py           # File renaming and organization
     recommender.py         # Recommendation engine
-    negotiator.py          #  Negotiation agent
-    skills/                #  Extensible skills system
+    negotiator.py          # Negotiation agent
+    skills/                # Extensible skills system
         __init__.py
         base_skill.py      # Base class for all skills
         contract_analyzer.py
         timeline_generator.py
         budget_tracker.py
- data/
-    raw/                   # Input files (your PDFs/PNGs)
-    organized/             # Organized output by category
- outputs/
-    recommendations/       # Generated recommendation reports
-    negotiation/           #  Negotiation emails and reports
+ 
  tests/
      test_agent.py
 ```
