@@ -22,7 +22,7 @@ Wedding planning isn't just stressful—it's a **terrible user experience**:
 - **You can't trust the data**: Is $12,500 for catering reasonable? No idea. The vendor says it's competitive. Your budget says it's too high. Who's right?
 - **Every decision feels risky**: Because you lack observability into how your choices compound.
 
-I was planning a small 20-guest wedding in Boston with a $6,700 budget. It shouldn't be this hard.
+I was planning a small 20-guest wedding in Boston with a $20k budget. It shouldn't be this hard.
 
 ## What I Built
 
