@@ -154,7 +154,10 @@ Personal vendor files, screenshots, and generated output are git-ignored and sta
 
 I'm interested in content and conversation design roles for AI agents: agent voice and tone, explainability, and the messages that sit between a model's output and a person's decision.
 
-**GitHub:** [@jkelleman](https://github.com/jkelleman)
+- **Portfolio:** [jkelleman.com](https://www.jkelleman.com)
+- **LinkedIn:** [linkedin.com/in/jenniferkelleman](https://www.linkedin.com/in/jenniferkelleman)
+- **Writing:** [AI with Jen](https://aiwithjen.com) · [Medium](https://medium.com/@jenkelleman)
+- **GitHub:** [@jkelleman](https://github.com/jkelleman)
 
 ## License
 
