@@ -1,0 +1,51 @@
+# Wedding Planning Agent Configuration
+# Update these values with your preferences
+
+budget:
+  max_total: 50000  # Maximum total budget in USD
+  venue: 15000
+  catering: 10000
+  floral: 3000
+  photography: 5000
+  entertainment: 2000
+  attire: 3000
+
+preferences:
+  dietary_restrictions:
+    - vegetarian
+    - gluten-free
+  guest_count: 150
+  preferred_season: "fall"
+  location_preference: "outdoor"
+  wedding_date: "2026-06-15"  # YYYY-MM-DD format
+
+file_organization:
+  # Naming convention: {category}_{venue_name}_{date}_{original_name}
+  categories:
+    - venue
+    - catering
+    - floral
+    - photography
+    - entertainment
+    - other
+  
+  input_dir: "data/raw"
+  output_dir: "data/organized"
+  recommendations_dir: "outputs/recommendations"
+
+# Negotiation settings
+negotiation:
+  default_tone: "professional"  # professional, friendly, or firm
+  counter_offer_strategy: "moderate"  # aggressive, moderate, or conservative
+  auto_save_drafts: true
+  drafts_dir: "outputs/negotiation"
+
+# Skills configuration
+skills:
+  enabled: true
+  auto_discover: true  # Automatically load skills from src/skills/
+  
+# Optional: AI/LLM API keys (uncomment to use)
+# api_keys:
+#   openai: "your-api-key-here"
+#   anthropic: "your-api-key-here"

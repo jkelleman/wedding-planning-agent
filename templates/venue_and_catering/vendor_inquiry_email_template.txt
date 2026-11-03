@@ -1,0 +1,102 @@
+Subject: [Room/Space Name] Inquiry - [Your Event Type] ([# guests])
+
+Hi [Contact Name],
+
+Thank you for [sending the information/speaking with me/your initial response]. I'm very interested in [Venue Name - Room Name] for [our/my client's] [event type - wedding, elopement, celebration, etc.].
+
+I've reviewed the [menu packet/information] carefully and have selected the following for [#] guests:
+
+[Menu Package Name] ($[price]/person × [#] guests = $[total])
+- Appetizers: [List selections]
+- Entrées: [List selections]
+- Sides: [List selections]
+- Desserts: [List selections]
+
+[Optional: Cocktail Hour/Hors d'Oeuvres Section]
+Cocktail Hour - Hors d'Oeuvres (Total: $[amount]):
+- [Item 1]: [#] pieces × $[price]/piece = $[total]
+- [Item 2]: [#] pieces × $[price]/piece = $[total]
+- [Item 3]: [#] pieces × $[price]/piece = $[total]
+
+Beverages (Total: $[amount]):
+- Wine: [#] bottles [Wine Type] ($[price] × [#] = $[total])
+- [Beer/Cocktails]: ~[#] drinks × $[price]/drink = $[total]
+
+Important notes about my/our event:
+- [Note about guest composition - ages, drinking preferences, etc.]
+- [Any dietary restrictions - allergies, gluten-free, vegan, etc.]
+- [Any other special considerations]
+
+Before I move forward, I have several questions:
+
+Menu & Dietary Accommodations:
+1. Can you confirm which menu items are naturally [gluten-free/vegan/etc.] or can be prepared to accommodate [dietary restriction]?
+2. For [specific course], which items are safe for guests with [allergy/restriction]?
+3. What [alternative] options are available as substitutes?
+4. How does your kitchen handle [dietary restriction] preparation to avoid cross-contamination?
+5. [Any menu-specific questions]
+
+Beverages:
+6. What non-alcoholic beverage options are included?
+7. Are there mocktail options or special non-alcoholic drinks available?
+8. How is alcohol consumption tracked/charged?
+9. Can we adjust [wine/beer] quantities closer to the event date based on final RSVPs?
+
+Timing & Logistics:
+10. What's the total event duration you recommend for this menu?
+11. How many servers will be assigned for [#] guests?
+12. What's the setup/breakdown timeline?
+13. Are there any time restrictions or curfews?
+
+Fees & Policies:
+14. Can you confirm the [admin fee/service fee] percentage?
+15. Is the [tax %] applied to both food and beverages?
+16. When would final payment and guest count be due?
+17. What's your cancellation/postponement policy?
+18. Is there a deposit required? If so, how much and when is it due?
+
+Next Steps:
+19. Can we schedule a tasting before the event?
+20. Is there availability for a site visit to see the [room name] setup?
+21. What's your availability for [date]?
+
+---
+
+SPECIAL REQUESTS:
+[List any special requests such as:]
+- Boxed leftovers
+- Specific room setup
+- Special decorations/flowers
+- Audio/visual needs
+- [Other requests]
+
+---
+
+My estimated total comes to $[total] for [#] guests ([breakdown of costs]). [Venue/Room name] looks perfect for our [event type], and I'm hoping to move forward soon!
+
+Looking forward to hearing from you.
+
+Best regards,
+[Your Name]
+[Your Phone]
+[Your Email]
+
+---
+
+📝 TIPS FOR USING THIS TEMPLATE:
+
+1. **Be specific with numbers** - Venues appreciate detailed inquiries
+2. **Show you've done your homework** - Reference their menu/pricing
+3. **Ask about ALL fees upfront** - Gratuity, admin, tax, cake cutting, etc.
+4. **Mention dietary restrictions early** - This can be a dealbreaker
+5. **Request itemized quotes** - Makes comparison easier
+6. **Be honest about budget** - Saves everyone time
+7. **Ask about minimums** - Room minimums vary by day/season
+8. **Clarify what's included** - Tables, chairs, linens, china, etc.
+9. **Understand the timeline** - Setup, event, breakdown
+10. **Get tasting info** - Most venues offer tastings for events
+
+---
+
+*Template Version 1.0 - Created January 2026*
+*For more templates, see `/templates/` folder*
