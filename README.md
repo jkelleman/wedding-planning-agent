@@ -1,4 +1,14 @@
-# Wedding Planning Agent
+<p align="center">
+  <img src="assets/banner.svg" alt="Wedding Planning Agent: a conversation design case study" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/jkelleman/wedding-planning-agent/actions/workflows/tests.yml"><img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/jkelleman/wedding-planning-agent/tests.yml?branch=main&style=flat-square&label=tests&color=8AA39B"></a>
+  <img alt="Python 3.9+" src="https://img.shields.io/badge/python-3.9%2B-3B1F33?style=flat-square&logo=python&logoColor=white">
+  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-3B1F33?style=flat-square"></a>
+  <img alt="Conversation design case study" src="https://img.shields.io/badge/case_study-conversation_design-C8553D?style=flat-square">
+  <img alt="OCR: Tesseract" src="https://img.shields.io/badge/OCR-Tesseract-6B5563?style=flat-square">
+</p>
 
 I design how AI agents talk to people. This one started with my own wedding.
 
@@ -79,4 +89,4 @@ I'm looking for content and conversation design work on AI agents.
 
 [Portfolio](https://www.jkelleman.com) · [LinkedIn](https://www.linkedin.com/in/jenniferkelleman) · [AI with Jen](https://aiwithjen.com) · [Medium](https://medium.com/@jenkelleman)
 
-MIT License
+[MIT License](LICENSE)
