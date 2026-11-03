@@ -1,31 +1,12 @@
 # Wedding Planning Agent
 
-**A conversation design case study: what does an agent need to say so people can make high-stakes decisions with confidence?**
+I'm Jen Kelleman, and I design how AI agents talk to people. I built this one while planning a 20-person wedding in Boston, when I had 68 vendor PDFs from 11 restaurants, 15 browser tabs, three spreadsheets, and no idea whether $130 a head was a good deal or a bad one.
 
-I'm Jen Kelleman, a content and conversation designer who works on AI agents. I built this agent while planning a small wedding in Boston, because the hard part wasn't finding vendors. It was knowing what to ask, how to ask it, and whether to trust the answers.
+Sorting the PDFs turned out to be the easy part. What I kept getting stuck on was the writing. What do I ask this restaurant? How do I ask a stranger to lower their price without sounding cheap or rude? Why should I believe a spreadsheet that says one venue is a better fit than another? Every one of those is a conversation design question, so I treated the project like one.
 
-This repo is the working agent plus the real messages it helped me write. It's a portfolio piece about the words an agent produces: how it explains itself, how it adapts its tone, and how it turns messy input into a message someone can actually send.
+## Making the agent show its work
 
----
-
-## The problem was a conversation problem
-
-I collected about 68 vendor PDFs, menus, and email threads from 11 restaurants. Every one used different language for pricing, minimums, fees, and dietary accommodation. The data was messy, but the bigger issue was the back-and-forth:
-
-- **I didn't know what to ask.** Each vague inquiry led to two more rounds of email.
-- **Recommendations without reasons were useless.** "This one's a good fit" doesn't help when you're spending thousands of dollars.
-- **Tone mattered and was hard to get right.** Asking a vendor to come down on price is uncomfortable. Too soft and nothing changes; too firm and you burn the relationship.
-- **Different audiences needed different messages.** Vendors needed precise, numbered questions. Family needed warmth and wayfinding.
-
-So I designed the agent's output first, then built the system to produce it.
-
----
-
-## Conversation design decisions
-
-### 1. Every recommendation explains itself
-
-The agent never returns a bare score. Each ranked option comes with plain-language reasons, written so a person can disagree with one specific reason instead of distrusting the whole result:
+A ranked list of venues didn't help me much. I'd look at the top pick and wonder what the agent knew that I didn't. So the recommender attaches its reasons to every result, in words I could check against the menu sitting next to me:
 
 ```
 Score: 76/100
@@ -33,61 +14,41 @@ Why:  Within budget ($8,000 <= $10,000)
       Matches dietary needs: vegetarian, gluten-free
 ```
 
-Counter-offers work the same way. The agent tells you *why* a number is reasonable ("aligns with our $10,000 budget allocation, brings price closer to market average") so you can say it out loud with a straight face.
+If I disagreed with a result, I could point at the exact line I disagreed with. Maybe I didn't care about the budget headroom, or maybe "matches gluten-free" needed a phone call to confirm. Either way I knew what to argue with.
 
-**Principle:** Show the reasoning in the user's terms, not the model's. Trust comes from being able to check the work.
+The negotiation helper does the same with counter-offers. It doesn't just suggest a number. It writes the sentence you'd use to defend it ("aligns with our $10,000 budget allocation, brings price closer to market average"), which was the part I actually needed before hitting send.
 
-### 2. Tone is a parameter, not an accident
+## Three ways to ask for a discount
 
-The negotiation agent drafts the same request in three registers: **professional**, **friendly**, and **firm**. Same facts, same counter-offer, different relationship posture:
+Asking a vendor to come down on price is awkward, and how awkward depends on how much you want them. So the agent writes the same request three ways, and you pick. Here's how each version opens and closes, straight from the templates:
 
-| Tone | Opens with | Closes with | Use when |
-|---|---|---|---|
-| Friendly | Enthusiasm for the vendor | An invitation to chat | You want this vendor and the gap is small |
-| Professional | Thanks and context | A request for a short call | Default; keeps options open |
-| Firm | Evaluation is complete | A deadline and alternatives | You have real alternatives and a hard budget |
+**Friendly** starts with "First off - we absolutely love what you do!" and ends by asking for a quick chat. It's for when you've already fallen for the place and the gap is small.
 
-Tone is set in `config.yaml` (`default_tone`) or per command (`--tone`), so the choice is deliberate and reversible.
+**Professional** thanks them, explains the budget plainly, and asks for a short call. This is the default, because it keeps every door open.
 
-**Principle:** Separate *what* the agent says from *how* it says it, and give the person control of the how.
+**Firm** says the evaluation is finished, cites the market average, and closes with "This is our best and final offer" plus a deadline. Use it only if you'd genuinely walk away.
 
-### 3. Structure the ask to cut the back-and-forth
+The facts and the number stay identical across all three. Only the relationship changes. You set your usual tone in `config.yaml` and override it per email with `--tone`.
 
-The vendor inquiry email in [`examples/planning/01_venue_and_catering/vendor_inquiry_email.txt`](examples/planning/01_venue_and_catering/vendor_inquiry_email.txt) is the clearest example. Instead of "Can you tell me more?", it:
+I never sent the firm one. Knowing it was ready still made every vendor conversation easier.
 
-- States the selection and the math up front, so the vendor can correct a wrong assumption immediately
-- Groups 21 numbered questions by topic (dietary, beverages, logistics, fees, next steps) so the reply can be numbered too
-- Names constraints plainly (strict gluten-free, nut-free, many non-drinkers) without over-explaining anyone's reasons
+## Asking for the reply you want
 
-One email replaced what would have been several rounds of clarification.
+The [vendor inquiry](examples/planning/01_venue_and_catering/vendor_inquiry_email.txt) I sent our venue is the piece of writing I'm proudest of in this repo. The easy version would have been "Could you tell me more about your dinner packages?", which is a great way to get back a PDF you already have and nothing else.
 
-**Principle:** Design the message for the reply you want back.
+The version I sent lays out exactly what I'd picked and what I thought it would cost, down to how many crab cake sliders, so they could correct my math before we went any further. Then it asks 21 numbered questions, grouped by dietary needs, drinks, timing, fees, and next steps, so they could answer by number. It explains that some guests need strictly gluten-free food and one needs nut-free, and that about half won't be drinking, without making anyone justify why. And it ends by asking them to box up the leftovers, because I was not leaving lobster bisque behind.
 
-### 4. Write for the reader in front of you
+## Same party, different reader
 
-The same event produced two very different pieces of content:
+The venue got a dense, numbered, every-fee-listed email. My family got [something else](examples/planning/01_venue_and_catering/guest_invitation_details.txt) entirely: where to go, which room, when cocktails start, what's on the menu, and a nudge to tell us about allergies. Same event and same facts, written for people who wanted to know if there'd be dessert.
 
-- **For the venue:** dense, numbered, cost-transparent
-- **For family** ([`guest_invitation_details.txt`](examples/planning/01_venue_and_catering/guest_invitation_details.txt)): warm, scannable, organized around the questions guests actually have (where, when, what's to eat, what to tell us)
+Every finished example in `examples/` has a blank version in `templates/`. That's how I like to write guidelines for agents, too. Show a good one first, then hand over the empty frame.
 
-**Principle:** Audience first. The facts don't change; the shape, order, and voice do.
+## Where it landed
 
-### 5. Examples beside templates
+The agent narrowed 68 documents down to 18 realistic options in an afternoon. I compared a [$5,000 plan](examples/analysis_5000/) against a [$6,700 one](examples/analysis_6500/) side by side, and the final proposal came in around $5,400 for 20 guests with every fee spelled out. The nine templates have since been passed around to a few friends who are planning their own.
 
-Every worked example in `examples/` has a blank, reusable counterpart in `templates/`. People learn the pattern by seeing it filled in, then adapt it. This is the same approach I use for agent prompt and response guidelines: show the good output, then hand over the scaffold.
-
----
-
-## What came out of it
-
-- **68 vendor documents → 18 realistic options** in an afternoon, filtered by budget, capacity, and dietary needs
-- **Two budget scenarios** ([$5,000](examples/analysis_5000/) and [$6,700](examples/analysis_6500/)) compared side by side, so the tradeoffs were visible before committing
-- **A final venue proposal** at about $5,400 for 20 guests, under the $6,700 ceiling, with every fee broken out
-- **9 reusable templates** for venue, catering, photography, music, and budgeting
-
-The metric I cared about most was confidence. Before: "I have no idea if this is a good price." After: "I know where this sits in the market, what I'm optimizing for, and what I'm trading away." I didn't end up sending the firm negotiation email, but having a draft I trusted changed how I walked into every conversation.
-
----
+The real difference was in my head. I started out thinking "I have no idea if this is a good price." By the end I knew where each quote sat against the market, what I cared about most, and what I was giving up to get it.
 
 ## How it works
 
@@ -95,70 +56,51 @@ The metric I cared about most was confidence. Before: "I have no idea if this is
 Vendor PDFs, menus, screenshots
         │
         ▼
-  scan       → OCR + text extraction (Tesseract, PyPDF2)
-  organize   → category, vendor, and price pulled into structured metadata
-  recommend  → transparent fit score + plain-language reasons
-  negotiate  → market comparison, counter-offer, drafted email in your chosen tone
-  skills     → contract red flags, planning timeline, budget tracking, vendor comparison
+  scan       OCR and text extraction (Tesseract, PyPDF2)
+  organize   pulls category, vendor, and price into metadata
+  recommend  fit score with the reasons attached
+  negotiate  market comparison, counter-offer, and a drafted email in your tone
+  skills     contract red flags, timelines, budget tracking, vendor comparison
 ```
 
-The fit score is deliberately simple so it can be explained in a sentence: start at 50, add points for coming in under budget, matching dietary needs, and fitting the guest count; subtract for going over budget or being too small.
+I kept the scoring simple enough to explain in one breath. Every option starts at 50, gains points for coming in under budget, covering your dietary needs, and fitting your guest count, and loses points for going over budget or being too small.
 
-### Run it
+To try it:
 
 ```bash
 pip install -r requirements.txt
 brew install tesseract          # or your OS's package manager
 
-python main.py init                                   # create working folders
-python main.py organize --input-dir examples/data/raw   # try it on the fictional samples
+python main.py init
+python main.py organize --input-dir examples/data/raw    # runs on the fictional samples
 python main.py recommend --input-dir examples/data/raw
 python main.py negotiate path/to/quote.pdf --draft --tone friendly
 python main.py skills list
 ```
 
-Set your budget, guest count, dietary needs, and default tone in `config.yaml`. See [`docs/QUICKSTART.md`](docs/QUICKSTART.md) for the full walkthrough.
-
----
-
-## Repository map
+Put your own budget, guest count, dietary needs, and tone in `config.yaml`. [`docs/QUICKSTART.md`](docs/QUICKSTART.md) walks through the rest.
 
 ```
 examples/
-  planning/01_venue_and_catering/   Real vendor inquiry + guest-facing details
-  analysis_5000/                    $5,000 scenario: recommendations, negotiation, next steps
-  analysis_6500/                    $6,700 scenario and comparison
-  data/raw/                         Fictional sample vendor files to try the agent on
-templates/                          Blank, reusable versions of every worksheet and message
-src/
-  scanner.py      recommender.py    organizer.py    negotiator.py
-  skills/         Plugin skills sharing one interface (name, description, execute)
-docs/QUICKSTART.md
-config.yaml       Budget, preferences, and tone
-main.py           CLI
+  planning/01_venue_and_catering/   the real venue email and the family details
+  analysis_5000/, analysis_6500/    the two budget scenarios
+  data/raw/                         fictional vendor files to experiment with
+templates/                          blank versions of every worksheet and message
+src/                                scanner, organizer, recommender, negotiator, skills/
+config.yaml                         budget, preferences, tone
+main.py                             command line
 ```
 
-Personal vendor files, screenshots, and generated output are git-ignored and stay local.
+Real vendor files and anything the agent generates stay on your machine. They're git-ignored.
 
----
+## If I kept going
 
-## What I'd do next
+I'd put a language model behind the drafting step and give it these templates as its style guide and the reasons list as its facts. I'd teach it to read a vendor's reply and match each answer to the question it belongs to. And I'd add a tone check that catches a "friendly" email quietly turning into a firm one.
 
-- Put an LLM behind the drafting step, with the current templates as the style guide and the reasons list as grounding
-- Let the agent read vendor replies and map answers back to the numbered questions
-- Add a "tone check" that flags when a draft drifts from the selected register
+## Say hi
 
----
+I'm looking for content and conversation design work on AI agents, especially the messages that sit between what a model figures out and what a person decides to do about it.
 
-## Let's talk
+[Portfolio](https://www.jkelleman.com) · [LinkedIn](https://www.linkedin.com/in/jenniferkelleman) · [AI with Jen](https://aiwithjen.com) · [Medium](https://medium.com/@jenkelleman) · [GitHub](https://github.com/jkelleman)
 
-I'm interested in content and conversation design roles for AI agents: agent voice and tone, explainability, and the messages that sit between a model's output and a person's decision.
-
-- **Portfolio:** [jkelleman.com](https://www.jkelleman.com)
-- **LinkedIn:** [linkedin.com/in/jenniferkelleman](https://www.linkedin.com/in/jenniferkelleman)
-- **Writing:** [AI with Jen](https://aiwithjen.com) · [Medium](https://medium.com/@jenkelleman)
-- **GitHub:** [@jkelleman](https://github.com/jkelleman)
-
-## License
-
-MIT
+MIT License
